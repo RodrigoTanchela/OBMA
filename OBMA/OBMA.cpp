@@ -22,18 +22,20 @@
 #define max_integer 2147483647
 #define min_integer -2147483648
 #define epsilon 0.000001
-#define NP 2				// number of parents
-#define PS 10				// population size
-#define alpha 15			// tabu tenure factor
-#define T 1500				// period for determining the tabu tenure
-#define max_iter 50000		// number of iterations in TS
-#define scale_factor 2.0    // neighborhood size should not less than 0.5
-#define is_obl true
+//#define NP 2				// number of parents
+//#define PS 10				// population size
+//#define alpha 15			// tabu tenure factor
+//#define T 1500				// period for determining the tabu tenure
+//#define max_iter 50000		// number of iterations in TS
+//#define scale_factor 2.0    // neighborhood size should not less than 0.5
+//#define is_obl true
 
 using namespace std;
 
 // running time
-double start_time, limit_time;
+int NP, PS, alpha, T, max_iter;
+double start_time, limit_time, scale_factor;
+bool is_obl;
 
 char* dataset;
 char* instance_name; 		// instance file name
@@ -1073,12 +1075,19 @@ int main(int argc, char** argv)
     double gap_best_cost;
     double sd;
 
-    if (argc == 5)
+    if (argc == 12)
     {
         instance_name = argv[1];
         dataset = argv[2];
         limit_time = atof(argv[3]);
         nbr_repeat = atoi(argv[4]);
+        NP = atoi(argv[5]);
+        PS = atoi(argv[6]);
+        alpha = atoi(argv[7]);
+        T = atoi(argv[8]);
+        max_iter = atoi(argv[9]);
+        scale_factor = atof(argv[10]);
+        is_obl = true;
     }
     else
     {

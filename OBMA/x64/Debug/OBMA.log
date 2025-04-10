@@ -1,3 +1,3 @@
 ﻿  OBMA.cpp
-C:\Users\Rodrigo\source\repos\OBMA\OBMA\OBMA.cpp(522,31): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Rodrigo\source\repos\OBMA\OBMA\OBMA.cpp(524,31): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
   OBMA.vcxproj -> C:\Users\Rodrigo\source\repos\OBMA\x64\Debug\OBMA.exe

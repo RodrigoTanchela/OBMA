@@ -1,0 +1,7 @@
+﻿  OBMA.cpp
+C:\Users\Rodrigo\source\repos\OBMA\OBMA\OBMA.cpp(524,31): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 206 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  OBMA.vcxproj -> C:\Users\Rodrigo\source\repos\OBMA\x64\Release\OBMA.exe
