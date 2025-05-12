@@ -16,7 +16,7 @@
 #include <string.h>
 #include <vector>
 #include <math.h>
-//#include <unistd.h>
+#include <unistd.h>
 #include <time.h>
 #define abs(x)(((x) < 0) ? -(x):(x))	// calculate the absolute value of x
 #define max_integer 2147483647
@@ -1075,7 +1075,7 @@ int main(int argc, char** argv)
     double gap_best_cost;
     double sd;
 
-    if (argc == 12)  // Agora espera 12 argumentos (incluindo is_obl)
+    if (argc == 12)
     {
         instance_name = argv[1];
         dataset = argv[2];
@@ -1086,8 +1086,8 @@ int main(int argc, char** argv)
         alpha = atoi(argv[7]);
         T = atoi(argv[8]);
         max_iter = atoi(argv[9]);
-        scale_factor = atof(argv[10]);  // Use atof para valores decimais
-        is_obl = (atoi(argv[11]) == 1);  // 1 para true, 0 para false
+        scale_factor = atof(argv[10]);
+        is_obl = true;
     }
     else
     {
