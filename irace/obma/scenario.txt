@@ -1,7 +1,0 @@
-parameterFile = "./parameters.txt"
-execDir = "."
-trainInstancesDir = "./instances"
-maxExperiments = 300
-targetRunner = "./target_runner.py"
-
-
