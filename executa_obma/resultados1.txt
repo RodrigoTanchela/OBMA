@@ -1,0 +1,2852 @@
+Relatorio de Execucao OBMA - 2025-06-04 20:30:47.222568
+Configuração: 10 trials por instância
+================================================================================
+
+================================================================================
+Instância 1/20 | Trial 1/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-04 20:30:47.228277
+================================================================================
+2025-06-04 20:30:47.244431 | Dataset: MDG-a
+2025-06-04 20:30:47.247577 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-04 20:30:47.248532 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-04 20:30:47.437450 | Finish loading data!
+2025-06-04 21:30:47.502180 | using OBL!!!
+2025-06-04 21:30:47.512048 | finish 1-th trial,nbr_gen = 937,best_cost = 7771.660000,best_time = 410.879713
+2025-06-04 21:30:47.513042 | finishing...!
+2025-06-04 21:30:47.513679 | found best objective = 7771.66
+2025-06-04 21:30:47.514276 | number of times to find the best solution = 1
+2025-06-04 21:30:47.515157 | average value of the best objective value = 7771.66
+2025-06-04 21:30:47.515701 | average value of the best time (second) = 410.88
+
+Instância 1/20 | Trial 1/10 | SUCESSO | Duração: 3600.30s | Melhor Custo: 7771.660000 | 2025-06-04 21:30:47.529427
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 2/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-04 21:30:48.565876
+================================================================================
+2025-06-04 21:30:48.626308 | Dataset: MDG-a
+2025-06-04 21:30:48.634299 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-04 21:30:48.635055 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-04 21:30:48.855867 | Finish loading data!
+2025-06-04 22:30:48.896863 | using OBL!!!
+2025-06-04 22:30:48.903398 | finish 1-th trial,nbr_gen = 1261,best_cost = 7771.660000,best_time = 159.823155
+2025-06-04 22:30:48.904641 | finishing...!
+2025-06-04 22:30:48.905804 | found best objective = 7771.66
+2025-06-04 22:30:48.906701 | number of times to find the best solution = 1
+2025-06-04 22:30:48.908344 | average value of the best objective value = 7771.66
+2025-06-04 22:30:48.909067 | average value of the best time (second) = 159.823
+
+Instância 1/20 | Trial 2/10 | SUCESSO | Duração: 3600.35s | Melhor Custo: 7771.660000 | 2025-06-04 22:30:48.912162
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 3/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-04 22:30:49.925558
+================================================================================
+2025-06-04 22:30:49.971371 | Dataset: MDG-a
+2025-06-04 22:30:49.976716 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-04 22:30:49.977373 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-04 22:30:50.175604 | Finish loading data!
+2025-06-04 23:30:50.239232 | using OBL!!!
+2025-06-04 23:30:50.248957 | finish 1-th trial,nbr_gen = 1017,best_cost = 7771.660000,best_time = 2226.861808
+2025-06-04 23:30:50.250409 | finishing...!
+2025-06-04 23:30:50.251241 | found best objective = 7771.66
+2025-06-04 23:30:50.252266 | number of times to find the best solution = 1
+2025-06-04 23:30:50.253056 | average value of the best objective value = 7771.66
+2025-06-04 23:30:50.253702 | average value of the best time (second) = 2226.86
+
+Instância 1/20 | Trial 3/10 | SUCESSO | Duração: 3600.33s | Melhor Custo: 7771.660000 | 2025-06-04 23:30:50.257958
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 4/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-04 23:30:51.281248
+================================================================================
+2025-06-04 23:30:51.345464 | Dataset: MDG-a
+2025-06-04 23:30:51.351241 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-04 23:30:51.351951 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-04 23:30:51.560575 | Finish loading data!
+2025-06-05 00:30:51.576388 | using OBL!!!
+2025-06-05 00:30:51.577607 | finish 1-th trial,nbr_gen = 1203,best_cost = 7771.660000,best_time = 1225.645198
+2025-06-05 00:30:51.578218 | finishing...!
+2025-06-05 00:30:51.578782 | found best objective = 7771.66
+2025-06-05 00:30:51.579300 | number of times to find the best solution = 1
+2025-06-05 00:30:51.579725 | average value of the best objective value = 7771.66
+2025-06-05 00:30:51.580320 | average value of the best time (second) = 1225.65
+
+Instância 1/20 | Trial 4/10 | SUCESSO | Duração: 3600.30s | Melhor Custo: 7771.660000 | 2025-06-05 00:30:51.580840
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 5/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 00:30:52.582981
+================================================================================
+2025-06-05 00:30:52.601673 | Dataset: MDG-a
+2025-06-05 00:30:52.657938 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 00:30:52.658579 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 00:30:52.891942 | Finish loading data!
+2025-06-05 01:30:52.918031 | using OBL!!!
+2025-06-05 01:30:52.920963 | finish 1-th trial,nbr_gen = 1228,best_cost = 7771.660000,best_time = 1225.923564
+2025-06-05 01:30:52.921939 | finishing...!
+2025-06-05 01:30:52.922681 | found best objective = 7771.66
+2025-06-05 01:30:52.923590 | number of times to find the best solution = 1
+2025-06-05 01:30:52.924574 | average value of the best objective value = 7771.66
+2025-06-05 01:30:52.925419 | average value of the best time (second) = 1225.92
+
+Instância 1/20 | Trial 5/10 | SUCESSO | Duração: 3600.34s | Melhor Custo: 7771.660000 | 2025-06-05 01:30:52.927290
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 6/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 01:30:53.934778
+================================================================================
+2025-06-05 01:30:53.961190 | Dataset: MDG-a
+2025-06-05 01:30:53.965077 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 01:30:53.965850 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 01:30:54.134056 | Finish loading data!
+2025-06-05 02:30:54.150811 | using OBL!!!
+2025-06-05 02:30:54.152099 | finish 1-th trial,nbr_gen = 1245,best_cost = 7771.660000,best_time = 3548.204179
+2025-06-05 02:30:54.152924 | finishing...!
+2025-06-05 02:30:54.158057 | found best objective = 7771.66
+2025-06-05 02:30:54.158604 | number of times to find the best solution = 1
+2025-06-05 02:30:54.159173 | average value of the best objective value = 7771.66
+2025-06-05 02:30:54.159710 | average value of the best time (second) = 3548.2
+
+Instância 1/20 | Trial 6/10 | SUCESSO | Duração: 3600.23s | Melhor Custo: 7771.660000 | 2025-06-05 02:30:54.160548
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 7/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 02:30:55.163343
+================================================================================
+2025-06-05 02:30:55.181424 | Dataset: MDG-a
+2025-06-05 02:30:55.185573 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 02:30:55.186237 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 02:30:55.356801 | Finish loading data!
+2025-06-05 03:30:55.372628 | using OBL!!!
+2025-06-05 03:30:55.374102 | finish 1-th trial,nbr_gen = 1246,best_cost = 7771.660000,best_time = 2729.289403
+2025-06-05 03:30:55.374839 | finishing...!
+2025-06-05 03:30:55.375349 | found best objective = 7771.66
+2025-06-05 03:30:55.375959 | number of times to find the best solution = 1
+2025-06-05 03:30:55.376453 | average value of the best objective value = 7771.66
+2025-06-05 03:30:55.377126 | average value of the best time (second) = 2729.29
+
+Instância 1/20 | Trial 7/10 | SUCESSO | Duração: 3600.21s | Melhor Custo: 7771.660000 | 2025-06-05 03:30:55.377851
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 8/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 03:30:56.380143
+================================================================================
+2025-06-05 03:30:56.395130 | Dataset: MDG-a
+2025-06-05 03:30:56.402560 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 03:30:56.403451 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 03:30:56.575355 | Finish loading data!
+2025-06-05 04:30:56.592498 | using OBL!!!
+2025-06-05 04:30:56.593768 | finish 1-th trial,nbr_gen = 1241,best_cost = 7771.660000,best_time = 146.994192
+2025-06-05 04:30:56.594766 | finishing...!
+2025-06-05 04:30:56.595466 | found best objective = 7771.66
+2025-06-05 04:30:56.596076 | number of times to find the best solution = 1
+2025-06-05 04:30:56.596786 | average value of the best objective value = 7771.66
+2025-06-05 04:30:56.597543 | average value of the best time (second) = 146.994
+
+Instância 1/20 | Trial 8/10 | SUCESSO | Duração: 3600.22s | Melhor Custo: 7771.660000 | 2025-06-05 04:30:56.598197
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 9/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 04:30:57.601093
+================================================================================
+2025-06-05 04:30:57.615146 | Dataset: MDG-a
+2025-06-05 04:30:57.618748 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 04:30:57.619521 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 04:30:57.898499 | Finish loading data!
+2025-06-05 05:30:57.913790 | using OBL!!!
+2025-06-05 05:30:57.915154 | finish 1-th trial,nbr_gen = 1203,best_cost = 7771.660000,best_time = 2345.846895
+2025-06-05 05:30:57.916004 | finishing...!
+2025-06-05 05:30:57.916606 | found best objective = 7771.66
+2025-06-05 05:30:57.917347 | number of times to find the best solution = 1
+2025-06-05 05:30:57.918223 | average value of the best objective value = 7771.66
+2025-06-05 05:30:57.918886 | average value of the best time (second) = 2345.85
+
+Instância 1/20 | Trial 9/10 | SUCESSO | Duração: 3600.32s | Melhor Custo: 7771.660000 | 2025-06-05 05:30:57.919516
+================================================================================
+
+
+================================================================================
+Instância 1/20 | Trial 10/10 | ./OBMA instances/MDG-a_2_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 05:30:58.922195
+================================================================================
+2025-06-05 05:30:58.938520 | Dataset: MDG-a
+2025-06-05 05:30:58.942507 | The statistics of the instance instances/MDG-a_2_n500_m50.txt
+2025-06-05 05:30:58.943196 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 05:30:59.136348 | Finish loading data!
+2025-06-05 06:30:59.157077 | using OBL!!!
+2025-06-05 06:30:59.158363 | finish 1-th trial,nbr_gen = 1245,best_cost = 7771.660000,best_time = 3157.958412
+2025-06-05 06:30:59.159323 | finishing...!
+2025-06-05 06:30:59.160030 | found best objective = 7771.66
+2025-06-05 06:30:59.160852 | number of times to find the best solution = 1
+2025-06-05 06:30:59.161627 | average value of the best objective value = 7771.66
+2025-06-05 06:30:59.162658 | average value of the best time (second) = 3157.96
+
+Instância 1/20 | Trial 10/10 | SUCESSO | Duração: 3600.24s | Melhor Custo: 7771.660000 | 2025-06-05 06:30:59.163339
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 1/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 06:31:00.166495
+================================================================================
+2025-06-05 06:31:00.183429 | Dataset: MDG-a
+2025-06-05 06:31:00.187153 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 06:31:00.187937 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 06:31:00.414942 | Finish loading data!
+2025-06-05 07:31:00.425019 | using OBL!!!
+2025-06-05 07:31:00.426220 | finish 1-th trial,nbr_gen = 1274,best_cost = 7770.240000,best_time = 3067.195434
+2025-06-05 07:31:00.427077 | finishing...!
+2025-06-05 07:31:00.427761 | found best objective = 7770.24
+2025-06-05 07:31:00.428376 | number of times to find the best solution = 1
+2025-06-05 07:31:00.428946 | average value of the best objective value = 7770.24
+2025-06-05 07:31:00.429356 | average value of the best time (second) = 3067.2
+
+Instância 2/20 | Trial 1/10 | SUCESSO | Duração: 3600.26s | Melhor Custo: 7770.240000 | 2025-06-05 07:31:00.429771
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 2/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 07:31:01.432221
+================================================================================
+2025-06-05 07:31:01.495153 | Dataset: MDG-a
+2025-06-05 07:31:01.498724 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 07:31:01.499479 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 07:31:01.687891 | Finish loading data!
+2025-06-05 08:31:01.733644 | using OBL!!!
+2025-06-05 08:31:01.740800 | finish 1-th trial,nbr_gen = 1223,best_cost = 7770.240000,best_time = 2771.015659
+2025-06-05 08:31:01.741900 | finishing...!
+2025-06-05 08:31:01.742717 | found best objective = 7770.24
+2025-06-05 08:31:01.743605 | number of times to find the best solution = 1
+2025-06-05 08:31:01.744342 | average value of the best objective value = 7770.24
+2025-06-05 08:31:01.744886 | average value of the best time (second) = 2771.02
+
+Instância 2/20 | Trial 2/10 | SUCESSO | Duração: 3600.32s | Melhor Custo: 7770.240000 | 2025-06-05 08:31:01.748896
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 3/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 08:31:02.770041
+================================================================================
+2025-06-05 08:31:02.827636 | Dataset: MDG-a
+2025-06-05 08:31:02.873372 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 08:31:02.874008 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 08:31:03.086564 | Finish loading data!
+2025-06-05 09:31:03.095430 | using OBL!!!
+2025-06-05 09:31:03.096544 | finish 1-th trial,nbr_gen = 1347,best_cost = 7770.240000,best_time = 1779.697067
+2025-06-05 09:31:03.097223 | finishing...!
+2025-06-05 09:31:03.097740 | found best objective = 7770.24
+2025-06-05 09:31:03.098293 | number of times to find the best solution = 1
+2025-06-05 09:31:03.099247 | average value of the best objective value = 7770.24
+2025-06-05 09:31:03.099998 | average value of the best time (second) = 1779.7
+
+Instância 2/20 | Trial 3/10 | SUCESSO | Duração: 3600.33s | Melhor Custo: 7770.240000 | 2025-06-05 09:31:03.100753
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 4/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 09:31:04.103312
+================================================================================
+2025-06-05 09:31:04.116839 | Dataset: MDG-a
+2025-06-05 09:31:04.157110 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 09:31:04.157857 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 09:31:04.322619 | Finish loading data!
+2025-06-05 10:31:04.330984 | using OBL!!!
+2025-06-05 10:31:04.332358 | finish 1-th trial,nbr_gen = 1325,best_cost = 7770.240000,best_time = 2283.463908
+2025-06-05 10:31:04.333219 | finishing...!
+2025-06-05 10:31:04.333743 | found best objective = 7770.24
+2025-06-05 10:31:04.334256 | number of times to find the best solution = 1
+2025-06-05 10:31:04.334772 | average value of the best objective value = 7770.24
+2025-06-05 10:31:04.335423 | average value of the best time (second) = 2283.46
+
+Instância 2/20 | Trial 4/10 | SUCESSO | Duração: 3600.23s | Melhor Custo: 7770.240000 | 2025-06-05 10:31:04.336071
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 5/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 10:31:05.339615
+================================================================================
+2025-06-05 10:31:05.358134 | Dataset: MDG-a
+2025-06-05 10:31:05.378030 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 10:31:05.378707 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 10:31:05.524959 | Finish loading data!
+2025-06-05 11:31:05.533026 | using OBL!!!
+2025-06-05 11:31:05.534652 | finish 1-th trial,nbr_gen = 1354,best_cost = 7770.240000,best_time = 360.368915
+2025-06-05 11:31:05.535292 | finishing...!
+2025-06-05 11:31:05.535858 | found best objective = 7770.24
+2025-06-05 11:31:05.536442 | number of times to find the best solution = 1
+2025-06-05 11:31:05.537037 | average value of the best objective value = 7770.24
+2025-06-05 11:31:05.537776 | average value of the best time (second) = 360.369
+
+Instância 2/20 | Trial 5/10 | SUCESSO | Duração: 3600.20s | Melhor Custo: 7770.240000 | 2025-06-05 11:31:05.538463
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 6/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 11:31:06.540904
+================================================================================
+2025-06-05 11:31:06.555067 | Dataset: MDG-a
+2025-06-05 11:31:06.558313 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 11:31:06.559280 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 11:31:06.708482 | Finish loading data!
+2025-06-05 12:31:06.718775 | using OBL!!!
+2025-06-05 12:31:06.720033 | finish 1-th trial,nbr_gen = 1285,best_cost = 7770.240000,best_time = 2797.037409
+2025-06-05 12:31:06.720771 | finishing...!
+2025-06-05 12:31:06.721559 | found best objective = 7770.24
+2025-06-05 12:31:06.722157 | number of times to find the best solution = 1
+2025-06-05 12:31:06.722732 | average value of the best objective value = 7770.24
+2025-06-05 12:31:06.723234 | average value of the best time (second) = 2797.04
+
+Instância 2/20 | Trial 6/10 | SUCESSO | Duração: 3600.18s | Melhor Custo: 7770.240000 | 2025-06-05 12:31:06.723707
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 7/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 12:31:07.725905
+================================================================================
+2025-06-05 12:31:07.743140 | Dataset: MDG-a
+2025-06-05 12:31:07.754097 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 12:31:07.754833 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 12:31:08.010823 | Finish loading data!
+2025-06-05 13:31:08.029506 | using OBL!!!
+2025-06-05 13:31:08.030603 | finish 1-th trial,nbr_gen = 1125,best_cost = 7770.240000,best_time = 1254.535711
+2025-06-05 13:31:08.031269 | finishing...!
+2025-06-05 13:31:08.031922 | found best objective = 7770.24
+2025-06-05 13:31:08.032644 | number of times to find the best solution = 1
+2025-06-05 13:31:08.033286 | average value of the best objective value = 7770.24
+2025-06-05 13:31:08.033754 | average value of the best time (second) = 1254.54
+
+Instância 2/20 | Trial 7/10 | SUCESSO | Duração: 3600.31s | Melhor Custo: 7770.240000 | 2025-06-05 13:31:08.034235
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 8/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 13:31:09.036057
+================================================================================
+2025-06-05 13:31:09.054652 | Dataset: MDG-a
+2025-06-05 13:31:09.084116 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 13:31:09.084739 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 13:31:09.275056 | Finish loading data!
+2025-06-05 14:31:09.300702 | using OBL!!!
+2025-06-05 14:31:09.301939 | finish 1-th trial,nbr_gen = 1277,best_cost = 7770.240000,best_time = 2877.904412
+2025-06-05 14:31:09.302478 | finishing...!
+2025-06-05 14:31:09.302874 | found best objective = 7770.24
+2025-06-05 14:31:09.303298 | number of times to find the best solution = 1
+2025-06-05 14:31:09.303731 | average value of the best objective value = 7770.24
+2025-06-05 14:31:09.304159 | average value of the best time (second) = 2877.9
+
+Instância 2/20 | Trial 8/10 | SUCESSO | Duração: 3600.27s | Melhor Custo: 7770.240000 | 2025-06-05 14:31:09.304526
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 9/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 14:31:10.306541
+================================================================================
+2025-06-05 14:31:10.322671 | Dataset: MDG-a
+2025-06-05 14:31:10.409080 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 14:31:10.409792 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 14:31:10.582029 | Finish loading data!
+2025-06-05 15:31:10.607530 | using OBL!!!
+2025-06-05 15:31:10.608575 | finish 1-th trial,nbr_gen = 1281,best_cost = 7770.240000,best_time = 3052.602548
+2025-06-05 15:31:10.609134 | finishing...!
+2025-06-05 15:31:10.609735 | found best objective = 7770.24
+2025-06-05 15:31:10.610272 | number of times to find the best solution = 1
+2025-06-05 15:31:10.611050 | average value of the best objective value = 7770.24
+2025-06-05 15:31:10.611534 | average value of the best time (second) = 3052.6
+
+Instância 2/20 | Trial 9/10 | SUCESSO | Duração: 3600.31s | Melhor Custo: 7770.240000 | 2025-06-05 15:31:10.611962
+================================================================================
+
+
+================================================================================
+Instância 2/20 | Trial 10/10 | ./OBMA instances/MDG-a_4_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 15:31:11.613861
+================================================================================
+2025-06-05 15:31:11.638289 | Dataset: MDG-a
+2025-06-05 15:31:11.643381 | The statistics of the instance instances/MDG-a_4_n500_m50.txt
+2025-06-05 15:31:11.644168 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 15:31:11.813019 | Finish loading data!
+2025-06-05 16:31:11.839490 | using OBL!!!
+2025-06-05 16:31:11.840853 | finish 1-th trial,nbr_gen = 1279,best_cost = 7770.240000,best_time = 3081.841064
+2025-06-05 16:31:11.841388 | finishing...!
+2025-06-05 16:31:11.841939 | found best objective = 7770.24
+2025-06-05 16:31:11.842402 | number of times to find the best solution = 1
+2025-06-05 16:31:11.842809 | average value of the best objective value = 7770.24
+2025-06-05 16:31:11.843222 | average value of the best time (second) = 3081.84
+
+Instância 2/20 | Trial 10/10 | SUCESSO | Duração: 3600.23s | Melhor Custo: 7770.240000 | 2025-06-05 16:31:11.843684
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 1/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 16:31:12.846852
+================================================================================
+2025-06-05 16:31:12.881257 | Dataset: MDG-a
+2025-06-05 16:31:12.885000 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 16:31:12.885582 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 16:31:13.093764 | Finish loading data!
+2025-06-05 17:31:13.114326 | using OBL!!!
+2025-06-05 17:31:13.115587 | finish 1-th trial,nbr_gen = 1267,best_cost = 7773.710000,best_time = 2570.891651
+2025-06-05 17:31:13.116199 | finishing...!
+2025-06-05 17:31:13.116633 | found best objective = 7773.71
+2025-06-05 17:31:13.117179 | number of times to find the best solution = 1
+2025-06-05 17:31:13.117585 | average value of the best objective value = 7773.71
+2025-06-05 17:31:13.117968 | average value of the best time (second) = 2570.89
+
+Instância 3/20 | Trial 1/10 | SUCESSO | Duração: 3600.27s | Melhor Custo: 7773.710000 | 2025-06-05 17:31:13.118339
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 2/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 17:31:14.120238
+================================================================================
+2025-06-05 17:31:14.138042 | Dataset: MDG-a
+2025-06-05 17:31:14.142660 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 17:31:14.143450 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 17:31:14.359147 | Finish loading data!
+2025-06-05 18:31:14.452926 | using OBL!!!
+2025-06-05 18:31:14.474100 | finish 1-th trial,nbr_gen = 1081,best_cost = 7773.710000,best_time = 3486.437603
+2025-06-05 18:31:14.475813 | finishing...!
+2025-06-05 18:31:14.477587 | found best objective = 7773.71
+2025-06-05 18:31:14.478555 | number of times to find the best solution = 1
+2025-06-05 18:31:14.479871 | average value of the best objective value = 7773.71
+2025-06-05 18:31:14.480569 | average value of the best time (second) = 3486.44
+
+Instância 3/20 | Trial 2/10 | SUCESSO | Duração: 3600.37s | Melhor Custo: 7773.710000 | 2025-06-05 18:31:14.489398
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 3/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 18:31:15.525161
+================================================================================
+2025-06-05 18:31:15.756307 | Dataset: MDG-a
+2025-06-05 18:31:15.762387 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 18:31:15.763157 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 18:31:16.105142 | Finish loading data!
+2025-06-05 19:31:16.130780 | using OBL!!!
+2025-06-05 19:31:16.131838 | finish 1-th trial,nbr_gen = 1284,best_cost = 7773.710000,best_time = 1004.341685
+2025-06-05 19:31:16.132632 | finishing...!
+2025-06-05 19:31:16.133295 | found best objective = 7773.71
+2025-06-05 19:31:16.134073 | number of times to find the best solution = 1
+2025-06-05 19:31:16.134718 | average value of the best objective value = 7773.71
+2025-06-05 19:31:16.135340 | average value of the best time (second) = 1004.34
+
+Instância 3/20 | Trial 3/10 | SUCESSO | Duração: 3600.61s | Melhor Custo: 7773.710000 | 2025-06-05 19:31:16.135965
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 4/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 19:31:17.138671
+================================================================================
+2025-06-05 19:31:17.181566 | Dataset: MDG-a
+2025-06-05 19:31:17.316845 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 19:31:17.317483 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 19:31:17.505675 | Finish loading data!
+2025-06-05 20:31:17.559710 | using OBL!!!
+2025-06-05 20:31:17.570750 | finish 1-th trial,nbr_gen = 1141,best_cost = 7773.710000,best_time = 1609.345928
+2025-06-05 20:31:17.571961 | finishing...!
+2025-06-05 20:31:17.573015 | found best objective = 7773.71
+2025-06-05 20:31:17.573892 | number of times to find the best solution = 1
+2025-06-05 20:31:17.574638 | average value of the best objective value = 7773.71
+2025-06-05 20:31:17.575330 | average value of the best time (second) = 1609.35
+
+Instância 3/20 | Trial 4/10 | SUCESSO | Duração: 3600.44s | Melhor Custo: 7773.710000 | 2025-06-05 20:31:17.581056
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 5/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 20:31:18.594943
+================================================================================
+2025-06-05 20:31:18.671633 | Dataset: MDG-a
+2025-06-05 20:31:18.778402 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 20:31:18.779332 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 20:31:18.961858 | Finish loading data!
+2025-06-05 21:31:19.020074 | using OBL!!!
+2025-06-05 21:31:19.024103 | finish 1-th trial,nbr_gen = 1005,best_cost = 7773.710000,best_time = 325.009398
+2025-06-05 21:31:19.025351 | finishing...!
+2025-06-05 21:31:19.026117 | found best objective = 7773.71
+2025-06-05 21:31:19.027003 | number of times to find the best solution = 1
+2025-06-05 21:31:19.027504 | average value of the best objective value = 7773.71
+2025-06-05 21:31:19.027909 | average value of the best time (second) = 325.009
+
+Instância 3/20 | Trial 5/10 | SUCESSO | Duração: 3600.43s | Melhor Custo: 7773.710000 | 2025-06-05 21:31:19.029622
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 6/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 21:31:20.042183
+================================================================================
+2025-06-05 21:31:20.100878 | Dataset: MDG-a
+2025-06-05 21:31:20.145719 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 21:31:20.146429 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 21:31:20.360704 | Finish loading data!
+2025-06-05 22:31:20.417841 | using OBL!!!
+2025-06-05 22:31:20.423104 | finish 1-th trial,nbr_gen = 1073,best_cost = 7773.710000,best_time = 3329.762391
+2025-06-05 22:31:20.423992 | finishing...!
+2025-06-05 22:31:20.424638 | found best objective = 7773.71
+2025-06-05 22:31:20.425560 | number of times to find the best solution = 1
+2025-06-05 22:31:20.426128 | average value of the best objective value = 7773.71
+2025-06-05 22:31:20.426736 | average value of the best time (second) = 3329.76
+
+Instância 3/20 | Trial 6/10 | SUCESSO | Duração: 3600.39s | Melhor Custo: 7773.710000 | 2025-06-05 22:31:20.431193
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 7/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 22:31:21.452483
+================================================================================
+2025-06-05 22:31:21.511597 | Dataset: MDG-a
+2025-06-05 22:31:21.517007 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 22:31:21.517658 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 22:31:21.701453 | Finish loading data!
+2025-06-05 23:31:21.722724 | using OBL!!!
+2025-06-05 23:31:21.724603 | finish 1-th trial,nbr_gen = 1318,best_cost = 7773.710000,best_time = 811.430623
+2025-06-05 23:31:21.725102 | finishing...!
+2025-06-05 23:31:21.725507 | found best objective = 7773.71
+2025-06-05 23:31:21.725966 | number of times to find the best solution = 1
+2025-06-05 23:31:21.726415 | average value of the best objective value = 7773.71
+2025-06-05 23:31:21.726909 | average value of the best time (second) = 811.431
+
+Instância 3/20 | Trial 7/10 | SUCESSO | Duração: 3600.27s | Melhor Custo: 7773.710000 | 2025-06-05 23:31:21.727310
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 8/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-05 23:31:22.729361
+================================================================================
+2025-06-05 23:31:22.752383 | Dataset: MDG-a
+2025-06-05 23:31:22.756131 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-05 23:31:22.756802 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-05 23:31:22.962941 | Finish loading data!
+2025-06-06 00:31:23.027298 | using OBL!!!
+2025-06-06 00:31:23.036784 | finish 1-th trial,nbr_gen = 1034,best_cost = 7773.710000,best_time = 1089.680342
+2025-06-06 00:31:23.037788 | finishing...!
+2025-06-06 00:31:23.038540 | found best objective = 7773.71
+2025-06-06 00:31:23.039206 | number of times to find the best solution = 1
+2025-06-06 00:31:23.039658 | average value of the best objective value = 7773.71
+2025-06-06 00:31:23.040018 | average value of the best time (second) = 1089.68
+
+Instância 3/20 | Trial 8/10 | SUCESSO | Duração: 3600.31s | Melhor Custo: 7773.710000 | 2025-06-06 00:31:23.044115
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 9/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 00:31:24.066766
+================================================================================
+2025-06-06 00:31:24.130880 | Dataset: MDG-a
+2025-06-06 00:31:24.136056 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-06 00:31:24.136822 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 00:31:24.317412 | Finish loading data!
+2025-06-06 01:31:24.392493 | using OBL!!!
+2025-06-06 01:31:24.402119 | finish 1-th trial,nbr_gen = 1100,best_cost = 7773.710000,best_time = 1042.667900
+2025-06-06 01:31:24.404006 | finishing...!
+2025-06-06 01:31:24.404942 | found best objective = 7773.71
+2025-06-06 01:31:24.405906 | number of times to find the best solution = 1
+2025-06-06 01:31:24.406599 | average value of the best objective value = 7773.71
+2025-06-06 01:31:24.407416 | average value of the best time (second) = 1042.67
+
+Instância 3/20 | Trial 9/10 | SUCESSO | Duração: 3600.35s | Melhor Custo: 7773.710000 | 2025-06-06 01:31:24.412190
+================================================================================
+
+
+================================================================================
+Instância 3/20 | Trial 10/10 | ./OBMA instances/MDG-a_6_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 01:31:25.437459
+================================================================================
+2025-06-06 01:31:25.493084 | Dataset: MDG-a
+2025-06-06 01:31:25.497216 | The statistics of the instance instances/MDG-a_6_n500_m50.txt
+2025-06-06 01:31:25.497888 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 01:31:25.679019 | Finish loading data!
+2025-06-06 02:31:21.649776 | using OBL!!!
+2025-06-06 02:31:21.651026 | finish 1-th trial,nbr_gen = 2546,best_cost = 7773.710000,best_time = 1701.681698
+2025-06-06 02:31:21.651607 | finishing...!
+2025-06-06 02:31:21.652429 | found best objective = 7773.71
+2025-06-06 02:31:21.652844 | number of times to find the best solution = 1
+2025-06-06 02:31:21.653174 | average value of the best objective value = 7773.71
+2025-06-06 02:31:21.653649 | average value of the best time (second) = 1701.68
+
+Instância 3/20 | Trial 10/10 | SUCESSO | Duração: 3596.22s | Melhor Custo: 7773.710000 | 2025-06-06 02:31:21.654273
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 1/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 02:31:22.657033
+================================================================================
+2025-06-06 02:31:22.723745 | Dataset: MDG-a
+2025-06-06 02:31:22.727818 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 02:31:22.728420 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 02:31:22.866142 | Finish loading data!
+2025-06-06 03:31:22.883006 | using OBL!!!
+2025-06-06 03:31:22.883764 | finish 1-th trial,nbr_gen = 2867,best_cost = 7750.880000,best_time = 3000.841837
+2025-06-06 03:31:22.884533 | finishing...!
+2025-06-06 03:31:22.885154 | found best objective = 7750.88
+2025-06-06 03:31:22.885559 | number of times to find the best solution = 1
+2025-06-06 03:31:22.885884 | average value of the best objective value = 7750.88
+2025-06-06 03:31:22.886171 | average value of the best time (second) = 3000.84
+
+Instância 4/20 | Trial 1/10 | SUCESSO | Duração: 3600.23s | Melhor Custo: 7750.880000 | 2025-06-06 03:31:22.886488
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 2/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 03:31:23.888481
+================================================================================
+2025-06-06 03:31:23.911199 | Dataset: MDG-a
+2025-06-06 03:31:23.936521 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 03:31:23.937366 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 03:31:24.064992 | Finish loading data!
+2025-06-06 04:31:24.163947 | using OBL!!!
+2025-06-06 04:31:24.165263 | finish 1-th trial,nbr_gen = 2869,best_cost = 7750.880000,best_time = 1377.287036
+2025-06-06 04:31:24.166042 | finishing...!
+2025-06-06 04:31:24.166450 | found best objective = 7750.88
+2025-06-06 04:31:24.166827 | number of times to find the best solution = 1
+2025-06-06 04:31:24.167227 | average value of the best objective value = 7750.88
+2025-06-06 04:31:24.167553 | average value of the best time (second) = 1377.29
+
+Instância 4/20 | Trial 2/10 | SUCESSO | Duração: 3600.28s | Melhor Custo: 7750.880000 | 2025-06-06 04:31:24.167895
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 3/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 04:31:25.169723
+================================================================================
+2025-06-06 04:31:25.184241 | Dataset: MDG-a
+2025-06-06 04:31:25.188907 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 04:31:25.189823 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 04:31:25.334574 | Finish loading data!
+2025-06-06 05:31:25.448752 | using OBL!!!
+2025-06-06 05:31:25.450476 | finish 1-th trial,nbr_gen = 2757,best_cost = 7750.880000,best_time = 1960.737484
+2025-06-06 05:31:25.450989 | finishing...!
+2025-06-06 05:31:25.451396 | found best objective = 7750.88
+2025-06-06 05:31:25.451771 | number of times to find the best solution = 1
+2025-06-06 05:31:25.452177 | average value of the best objective value = 7750.88
+2025-06-06 05:31:25.452551 | average value of the best time (second) = 1960.74
+
+Instância 4/20 | Trial 3/10 | SUCESSO | Duração: 3600.28s | Melhor Custo: 7750.880000 | 2025-06-06 05:31:25.452935
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 4/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 05:31:26.454796
+================================================================================
+2025-06-06 05:31:26.513480 | Dataset: MDG-a
+2025-06-06 05:31:26.533666 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 05:31:26.534377 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 05:31:26.641685 | Finish loading data!
+2025-06-06 06:31:26.656228 | using OBL!!!
+2025-06-06 06:31:26.657466 | finish 1-th trial,nbr_gen = 2877,best_cost = 7750.880000,best_time = 673.197083
+2025-06-06 06:31:26.658010 | finishing...!
+2025-06-06 06:31:26.658443 | found best objective = 7750.88
+2025-06-06 06:31:26.658811 | number of times to find the best solution = 1
+2025-06-06 06:31:26.659143 | average value of the best objective value = 7750.88
+2025-06-06 06:31:26.659489 | average value of the best time (second) = 673.197
+
+Instância 4/20 | Trial 4/10 | SUCESSO | Duração: 3600.21s | Melhor Custo: 7750.880000 | 2025-06-06 06:31:26.659825
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 5/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 06:31:27.662272
+================================================================================
+2025-06-06 06:31:27.679307 | Dataset: MDG-a
+2025-06-06 06:31:27.704880 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 06:31:27.705936 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 06:31:27.839075 | Finish loading data!
+2025-06-06 07:31:27.863498 | using OBL!!!
+2025-06-06 07:31:27.864678 | finish 1-th trial,nbr_gen = 2849,best_cost = 7750.880000,best_time = 321.381049
+2025-06-06 07:31:27.865705 | finishing...!
+2025-06-06 07:31:27.866276 | found best objective = 7750.88
+2025-06-06 07:31:27.866737 | number of times to find the best solution = 1
+2025-06-06 07:31:27.867094 | average value of the best objective value = 7750.88
+2025-06-06 07:31:27.867523 | average value of the best time (second) = 321.381
+
+Instância 4/20 | Trial 5/10 | SUCESSO | Duração: 3600.21s | Melhor Custo: 7750.880000 | 2025-06-06 07:31:27.867938
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 6/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 07:31:28.869710
+================================================================================
+2025-06-06 07:31:28.885793 | Dataset: MDG-a
+2025-06-06 07:31:28.889551 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 07:31:28.890373 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 07:31:29.016450 | Finish loading data!
+2025-06-06 08:31:29.082466 | using OBL!!!
+2025-06-06 08:31:29.083426 | finish 1-th trial,nbr_gen = 2882,best_cost = 7750.880000,best_time = 3034.529553
+2025-06-06 08:31:29.083927 | finishing...!
+2025-06-06 08:31:29.084461 | found best objective = 7750.88
+2025-06-06 08:31:29.085197 | number of times to find the best solution = 1
+2025-06-06 08:31:29.085581 | average value of the best objective value = 7750.88
+2025-06-06 08:31:29.085941 | average value of the best time (second) = 3034.53
+
+Instância 4/20 | Trial 6/10 | SUCESSO | Duração: 3600.22s | Melhor Custo: 7750.880000 | 2025-06-06 08:31:29.086328
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 7/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 08:31:30.088237
+================================================================================
+2025-06-06 08:31:30.105415 | Dataset: MDG-a
+2025-06-06 08:31:30.119275 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 08:31:30.120059 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 08:31:30.225929 | Finish loading data!
+2025-06-06 09:31:30.295556 | using OBL!!!
+2025-06-06 09:31:30.296622 | finish 1-th trial,nbr_gen = 2909,best_cost = 7750.880000,best_time = 1289.725688
+2025-06-06 09:31:30.297269 | finishing...!
+2025-06-06 09:31:30.297795 | found best objective = 7750.88
+2025-06-06 09:31:30.298229 | number of times to find the best solution = 1
+2025-06-06 09:31:30.298618 | average value of the best objective value = 7750.88
+2025-06-06 09:31:30.299013 | average value of the best time (second) = 1289.73
+
+Instância 4/20 | Trial 7/10 | SUCESSO | Duração: 3600.21s | Melhor Custo: 7750.880000 | 2025-06-06 09:31:30.299430
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 8/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 09:31:31.301183
+================================================================================
+2025-06-06 09:31:31.314185 | Dataset: MDG-a
+2025-06-06 09:31:31.318568 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 09:31:31.319116 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 09:31:31.427152 | Finish loading data!
+2025-06-06 10:31:31.494591 | using OBL!!!
+2025-06-06 10:31:31.496008 | finish 1-th trial,nbr_gen = 2847,best_cost = 7750.880000,best_time = 908.674775
+2025-06-06 10:31:31.496520 | finishing...!
+2025-06-06 10:31:31.496967 | found best objective = 7750.88
+2025-06-06 10:31:31.497445 | number of times to find the best solution = 1
+2025-06-06 10:31:31.497783 | average value of the best objective value = 7750.88
+2025-06-06 10:31:31.498186 | average value of the best time (second) = 908.675
+
+Instância 4/20 | Trial 8/10 | SUCESSO | Duração: 3600.20s | Melhor Custo: 7750.880000 | 2025-06-06 10:31:31.498580
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 9/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 10:31:32.500825
+================================================================================
+2025-06-06 10:31:32.516261 | Dataset: MDG-a
+2025-06-06 10:31:32.518866 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 10:31:32.519371 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 10:31:32.625498 | Finish loading data!
+2025-06-06 11:31:32.689258 | using OBL!!!
+2025-06-06 11:31:32.690585 | finish 1-th trial,nbr_gen = 2858,best_cost = 7750.880000,best_time = 3114.848500
+2025-06-06 11:31:32.691825 | finishing...!
+2025-06-06 11:31:32.692384 | found best objective = 7750.88
+2025-06-06 11:31:32.692825 | number of times to find the best solution = 1
+2025-06-06 11:31:32.693253 | average value of the best objective value = 7750.88
+2025-06-06 11:31:32.693729 | average value of the best time (second) = 3114.85
+
+Instância 4/20 | Trial 9/10 | SUCESSO | Duração: 3600.19s | Melhor Custo: 7750.880000 | 2025-06-06 11:31:32.694166
+================================================================================
+
+
+================================================================================
+Instância 4/20 | Trial 10/10 | ./OBMA instances/MDG-a_8_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 11:31:33.696954
+================================================================================
+2025-06-06 11:31:33.711863 | Dataset: MDG-a
+2025-06-06 11:31:33.715101 | The statistics of the instance instances/MDG-a_8_n500_m50.txt
+2025-06-06 11:31:33.715821 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 11:31:33.805028 | Finish loading data!
+2025-06-06 12:31:33.968613 | using OBL!!!
+2025-06-06 12:31:33.984531 | finish 1-th trial,nbr_gen = 2688,best_cost = 7750.880000,best_time = 3434.125163
+2025-06-06 12:31:33.985858 | finishing...!
+2025-06-06 12:31:33.986968 | found best objective = 7750.88
+2025-06-06 12:31:33.988401 | number of times to find the best solution = 1
+2025-06-06 12:31:33.988793 | average value of the best objective value = 7750.88
+2025-06-06 12:31:33.989192 | average value of the best time (second) = 3434.13
+
+Instância 4/20 | Trial 10/10 | SUCESSO | Duração: 3600.30s | Melhor Custo: 7750.880000 | 2025-06-06 12:31:33.999332
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 1/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 12:31:35.029916
+================================================================================
+2025-06-06 12:31:35.129868 | Dataset: MDG-a
+2025-06-06 12:31:35.247246 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 12:31:35.247785 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 12:31:35.388785 | Finish loading data!
+2025-06-06 13:31:35.405130 | using OBL!!!
+2025-06-06 13:31:35.406510 | finish 1-th trial,nbr_gen = 2873,best_cost = 7780.350000,best_time = 1136.737787
+2025-06-06 13:31:35.407062 | finishing...!
+2025-06-06 13:31:35.407586 | found best objective = 7780.35
+2025-06-06 13:31:35.407992 | number of times to find the best solution = 1
+2025-06-06 13:31:35.408424 | average value of the best objective value = 7780.35
+2025-06-06 13:31:35.408807 | average value of the best time (second) = 1136.74
+
+Instância 5/20 | Trial 1/10 | SUCESSO | Duração: 3600.38s | Melhor Custo: 7780.350000 | 2025-06-06 13:31:35.409995
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 2/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 13:31:36.412755
+================================================================================
+2025-06-06 13:31:36.475677 | Dataset: MDG-a
+2025-06-06 13:31:36.596581 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 13:31:36.597288 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 13:31:36.710964 | Finish loading data!
+2025-06-06 14:31:36.725992 | using OBL!!!
+2025-06-06 14:31:36.727243 | finish 1-th trial,nbr_gen = 2877,best_cost = 7780.350000,best_time = 3096.206988
+2025-06-06 14:31:36.727677 | finishing...!
+2025-06-06 14:31:36.728042 | found best objective = 7780.35
+2025-06-06 14:31:36.728415 | number of times to find the best solution = 1
+2025-06-06 14:31:36.728821 | average value of the best objective value = 7780.35
+2025-06-06 14:31:36.729135 | average value of the best time (second) = 3096.21
+
+Instância 5/20 | Trial 2/10 | SUCESSO | Duração: 3600.32s | Melhor Custo: 7780.350000 | 2025-06-06 14:31:36.729478
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 3/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 14:31:37.730953
+================================================================================
+2025-06-06 14:31:37.765672 | Dataset: MDG-a
+2025-06-06 14:31:37.769770 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 14:31:37.770566 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 14:31:37.881490 | Finish loading data!
+2025-06-06 15:31:37.895386 | using OBL!!!
+2025-06-06 15:31:37.896588 | finish 1-th trial,nbr_gen = 2887,best_cost = 7780.350000,best_time = 892.022137
+2025-06-06 15:31:37.896958 | finishing...!
+2025-06-06 15:31:37.897344 | found best objective = 7780.35
+2025-06-06 15:31:37.898167 | number of times to find the best solution = 1
+2025-06-06 15:31:37.898540 | average value of the best objective value = 7780.35
+2025-06-06 15:31:37.898937 | average value of the best time (second) = 892.022
+
+Instância 5/20 | Trial 3/10 | SUCESSO | Duração: 3600.17s | Melhor Custo: 7780.350000 | 2025-06-06 15:31:37.899282
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 4/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 15:31:38.901041
+================================================================================
+2025-06-06 15:31:38.947393 | Dataset: MDG-a
+2025-06-06 15:31:39.123010 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 15:31:39.123655 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 15:31:39.229785 | Finish loading data!
+2025-06-06 16:31:39.308444 | using OBL!!!
+2025-06-06 16:31:39.309584 | finish 1-th trial,nbr_gen = 2906,best_cost = 7780.350000,best_time = 3513.875991
+2025-06-06 16:31:39.310106 | finishing...!
+2025-06-06 16:31:39.310586 | found best objective = 7780.35
+2025-06-06 16:31:39.310961 | number of times to find the best solution = 1
+2025-06-06 16:31:39.311314 | average value of the best objective value = 7780.35
+2025-06-06 16:31:39.311677 | average value of the best time (second) = 3513.88
+
+Instância 5/20 | Trial 4/10 | SUCESSO | Duração: 3600.41s | Melhor Custo: 7780.350000 | 2025-06-06 16:31:39.312060
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 5/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 16:31:40.313782
+================================================================================
+2025-06-06 16:31:40.329783 | Dataset: MDG-a
+2025-06-06 16:31:40.426440 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 16:31:40.427086 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 16:31:40.547703 | Finish loading data!
+2025-06-06 17:31:40.620940 | using OBL!!!
+2025-06-06 17:31:40.622036 | finish 1-th trial,nbr_gen = 2916,best_cost = 7780.350000,best_time = 3388.075558
+2025-06-06 17:31:40.622548 | finishing...!
+2025-06-06 17:31:40.623009 | found best objective = 7780.35
+2025-06-06 17:31:40.623428 | number of times to find the best solution = 1
+2025-06-06 17:31:40.623772 | average value of the best objective value = 7780.35
+2025-06-06 17:31:40.624146 | average value of the best time (second) = 3388.08
+
+Instância 5/20 | Trial 5/10 | SUCESSO | Duração: 3600.31s | Melhor Custo: 7780.350000 | 2025-06-06 17:31:40.624541
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 6/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 17:31:41.625989
+================================================================================
+2025-06-06 17:31:41.639185 | Dataset: MDG-a
+2025-06-06 17:31:41.642565 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 17:31:41.643141 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 17:31:41.744424 | Finish loading data!
+2025-06-06 18:31:42.239412 | using OBL!!!
+2025-06-06 18:31:42.294726 | finish 1-th trial,nbr_gen = 2375,best_cost = 7780.350000,best_time = 3176.144402
+2025-06-06 18:31:42.295696 | finishing...!
+2025-06-06 18:31:42.297772 | found best objective = 7780.35
+2025-06-06 18:31:42.302476 | number of times to find the best solution = 1
+2025-06-06 18:31:42.303683 | average value of the best objective value = 7780.35
+2025-06-06 18:31:42.304532 | average value of the best time (second) = 3176.14
+
+Instância 5/20 | Trial 6/10 | SUCESSO | Duração: 3600.69s | Melhor Custo: 7780.350000 | 2025-06-06 18:31:42.310992
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 7/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 18:31:43.342617
+================================================================================
+2025-06-06 18:31:43.512262 | Dataset: MDG-a
+2025-06-06 18:31:43.620978 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 18:31:43.622302 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 18:31:43.827136 | Finish loading data!
+2025-06-06 19:31:43.900515 | using OBL!!!
+2025-06-06 19:31:43.914565 | finish 1-th trial,nbr_gen = 1920,best_cost = 7780.350000,best_time = 2977.880090
+2025-06-06 19:31:43.916003 | finishing...!
+2025-06-06 19:31:43.917287 | found best objective = 7780.35
+2025-06-06 19:31:43.919402 | number of times to find the best solution = 1
+2025-06-06 19:31:43.919798 | average value of the best objective value = 7780.35
+2025-06-06 19:31:43.920329 | average value of the best time (second) = 2977.88
+
+Instância 5/20 | Trial 7/10 | SUCESSO | Duração: 3600.58s | Melhor Custo: 7780.350000 | 2025-06-06 19:31:43.925000
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 8/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 19:31:44.946965
+================================================================================
+2025-06-06 19:31:45.015528 | Dataset: MDG-a
+2025-06-06 19:31:45.045203 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 19:31:45.045764 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 19:31:45.154876 | Finish loading data!
+2025-06-06 20:31:45.239015 | using OBL!!!
+2025-06-06 20:31:45.240216 | finish 1-th trial,nbr_gen = 2917,best_cost = 7780.350000,best_time = 479.961256
+2025-06-06 20:31:45.241342 | finishing...!
+2025-06-06 20:31:45.241847 | found best objective = 7780.35
+2025-06-06 20:31:45.242450 | number of times to find the best solution = 1
+2025-06-06 20:31:45.243030 | average value of the best objective value = 7780.35
+2025-06-06 20:31:45.243445 | average value of the best time (second) = 479.961
+
+Instância 5/20 | Trial 8/10 | SUCESSO | Duração: 3600.30s | Melhor Custo: 7780.350000 | 2025-06-06 20:31:45.243937
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 9/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 20:31:46.247007
+================================================================================
+2025-06-06 20:31:46.278474 | Dataset: MDG-a
+2025-06-06 20:31:46.322318 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 20:31:46.322940 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 20:31:46.454653 | Finish loading data!
+2025-06-06 21:31:46.506732 | using OBL!!!
+2025-06-06 21:31:46.519991 | finish 1-th trial,nbr_gen = 2549,best_cost = 7780.350000,best_time = 2330.594780
+2025-06-06 21:31:46.521185 | finishing...!
+2025-06-06 21:31:46.521803 | found best objective = 7780.35
+2025-06-06 21:31:46.522773 | number of times to find the best solution = 1
+2025-06-06 21:31:46.523198 | average value of the best objective value = 7780.35
+2025-06-06 21:31:46.523547 | average value of the best time (second) = 2330.59
+
+Instância 5/20 | Trial 9/10 | SUCESSO | Duração: 3600.28s | Melhor Custo: 7780.350000 | 2025-06-06 21:31:46.527957
+================================================================================
+
+
+================================================================================
+Instância 5/20 | Trial 10/10 | ./OBMA instances/MDG-a_10_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 21:31:47.549855
+================================================================================
+2025-06-06 21:31:47.627602 | Dataset: MDG-a
+2025-06-06 21:31:47.748925 | The statistics of the instance instances/MDG-a_10_n500_m50.txt
+2025-06-06 21:31:47.749554 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 21:31:47.860148 | Finish loading data!
+2025-06-06 22:31:47.967380 | using OBL!!!
+2025-06-06 22:31:47.975308 | finish 1-th trial,nbr_gen = 2603,best_cost = 7780.350000,best_time = 3060.793881
+2025-06-06 22:31:47.976107 | finishing...!
+2025-06-06 22:31:47.976683 | found best objective = 7780.35
+2025-06-06 22:31:47.977226 | number of times to find the best solution = 1
+2025-06-06 22:31:47.977550 | average value of the best objective value = 7780.35
+2025-06-06 22:31:47.977963 | average value of the best time (second) = 3060.79
+
+Instância 5/20 | Trial 10/10 | SUCESSO | Duração: 3600.43s | Melhor Custo: 7780.350000 | 2025-06-06 22:31:47.981218
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 1/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 22:31:48.999410
+================================================================================
+2025-06-06 22:31:49.083454 | Dataset: MDG-a
+2025-06-06 22:31:49.086940 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-06 22:31:49.087627 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 22:31:49.230680 | Finish loading data!
+2025-06-06 23:31:49.402244 | using OBL!!!
+2025-06-06 23:31:49.413056 | finish 1-th trial,nbr_gen = 1859,best_cost = 7757.650000,best_time = 3429.747632
+2025-06-06 23:31:49.414436 | finishing...!
+2025-06-06 23:31:49.415458 | found best objective = 7757.65
+2025-06-06 23:31:49.416472 | number of times to find the best solution = 1
+2025-06-06 23:31:49.417136 | average value of the best objective value = 7757.65
+2025-06-06 23:31:49.417508 | average value of the best time (second) = 3429.75
+
+Instância 6/20 | Trial 1/10 | SUCESSO | Duração: 3600.42s | Melhor Custo: 7757.650000 | 2025-06-06 23:31:49.422828
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 2/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-06 23:31:50.450213
+================================================================================
+2025-06-06 23:31:50.559591 | Dataset: MDG-a
+2025-06-06 23:31:50.629658 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-06 23:31:50.630446 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-06 23:31:50.761624 | Finish loading data!
+2025-06-07 00:31:50.859782 | using OBL!!!
+2025-06-07 00:31:50.875880 | finish 1-th trial,nbr_gen = 1746,best_cost = 7757.650000,best_time = 107.237335
+2025-06-07 00:31:50.877062 | finishing...!
+2025-06-07 00:31:50.878071 | found best objective = 7757.65
+2025-06-07 00:31:50.878636 | number of times to find the best solution = 1
+2025-06-07 00:31:50.878952 | average value of the best objective value = 7757.65
+2025-06-07 00:31:50.879217 | average value of the best time (second) = 107.237
+
+Instância 6/20 | Trial 2/10 | SUCESSO | Duração: 3600.45s | Melhor Custo: 7757.650000 | 2025-06-07 00:31:50.896095
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 3/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 00:31:51.919285
+================================================================================
+2025-06-07 00:31:51.997986 | Dataset: MDG-a
+2025-06-07 00:31:52.035000 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 00:31:52.035696 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 00:31:52.140405 | Finish loading data!
+2025-06-07 01:31:52.216739 | using OBL!!!
+2025-06-07 01:31:52.217957 | finish 1-th trial,nbr_gen = 3010,best_cost = 7757.650000,best_time = 3035.253801
+2025-06-07 01:31:52.218856 | finishing...!
+2025-06-07 01:31:52.219350 | found best objective = 7757.65
+2025-06-07 01:31:52.219745 | number of times to find the best solution = 1
+2025-06-07 01:31:52.220155 | average value of the best objective value = 7757.65
+2025-06-07 01:31:52.220718 | average value of the best time (second) = 3035.25
+
+Instância 6/20 | Trial 3/10 | SUCESSO | Duração: 3600.30s | Melhor Custo: 7757.650000 | 2025-06-07 01:31:52.221277
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 4/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 01:31:53.223550
+================================================================================
+2025-06-07 01:31:53.244683 | Dataset: MDG-a
+2025-06-07 01:31:53.281435 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 01:31:53.282387 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 01:31:53.385284 | Finish loading data!
+2025-06-07 02:31:53.399599 | using OBL!!!
+2025-06-07 02:31:53.400968 | finish 1-th trial,nbr_gen = 3009,best_cost = 7757.650000,best_time = 1423.610997
+2025-06-07 02:31:53.401687 | finishing...!
+2025-06-07 02:31:53.402217 | found best objective = 7757.65
+2025-06-07 02:31:53.402600 | number of times to find the best solution = 1
+2025-06-07 02:31:53.403024 | average value of the best objective value = 7757.65
+2025-06-07 02:31:53.403602 | average value of the best time (second) = 1423.61
+
+Instância 6/20 | Trial 4/10 | SUCESSO | Duração: 3600.18s | Melhor Custo: 7757.650000 | 2025-06-07 02:31:53.404087
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 5/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 02:31:54.406267
+================================================================================
+2025-06-07 02:31:54.422961 | Dataset: MDG-a
+2025-06-07 02:31:54.425618 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 02:31:54.426170 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 02:31:54.498377 | Finish loading data!
+2025-06-07 03:31:54.519395 | using OBL!!!
+2025-06-07 03:31:54.520753 | finish 1-th trial,nbr_gen = 2887,best_cost = 7757.650000,best_time = 157.481341
+2025-06-07 03:31:54.521365 | finishing...!
+2025-06-07 03:31:54.521789 | found best objective = 7757.65
+2025-06-07 03:31:54.522202 | number of times to find the best solution = 1
+2025-06-07 03:31:54.522596 | average value of the best objective value = 7757.65
+2025-06-07 03:31:54.523029 | average value of the best time (second) = 157.481
+
+Instância 6/20 | Trial 5/10 | SUCESSO | Duração: 3600.12s | Melhor Custo: 7757.650000 | 2025-06-07 03:31:54.523413
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 6/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 03:31:55.525321
+================================================================================
+2025-06-07 03:31:55.539186 | Dataset: MDG-a
+2025-06-07 03:31:55.541756 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 03:31:55.542450 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 03:31:55.649415 | Finish loading data!
+2025-06-07 04:31:55.723559 | using OBL!!!
+2025-06-07 04:31:55.725015 | finish 1-th trial,nbr_gen = 2967,best_cost = 7757.650000,best_time = 629.575883
+2025-06-07 04:31:55.725874 | finishing...!
+2025-06-07 04:31:55.726396 | found best objective = 7757.65
+2025-06-07 04:31:55.726977 | number of times to find the best solution = 1
+2025-06-07 04:31:55.727428 | average value of the best objective value = 7757.65
+2025-06-07 04:31:55.727813 | average value of the best time (second) = 629.576
+
+Instância 6/20 | Trial 6/10 | SUCESSO | Duração: 3600.20s | Melhor Custo: 7757.650000 | 2025-06-07 04:31:55.728232
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 7/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 04:31:56.730343
+================================================================================
+2025-06-07 04:31:56.743867 | Dataset: MDG-a
+2025-06-07 04:31:56.746404 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 04:31:56.747057 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 04:31:56.844980 | Finish loading data!
+2025-06-07 05:31:56.916576 | using OBL!!!
+2025-06-07 05:31:56.917764 | finish 1-th trial,nbr_gen = 2914,best_cost = 7757.650000,best_time = 633.893050
+2025-06-07 05:31:56.918288 | finishing...!
+2025-06-07 05:31:56.918733 | found best objective = 7757.65
+2025-06-07 05:31:56.919541 | number of times to find the best solution = 1
+2025-06-07 05:31:56.919946 | average value of the best objective value = 7757.65
+2025-06-07 05:31:56.920371 | average value of the best time (second) = 633.893
+
+Instância 6/20 | Trial 7/10 | SUCESSO | Duração: 3600.19s | Melhor Custo: 7757.650000 | 2025-06-07 05:31:56.920723
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 8/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 05:31:57.922911
+================================================================================
+2025-06-07 05:31:57.966755 | Dataset: MDG-a
+2025-06-07 05:31:57.970542 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 05:31:57.971179 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 05:31:58.072701 | Finish loading data!
+2025-06-07 06:31:58.140174 | using OBL!!!
+2025-06-07 06:31:58.141660 | finish 1-th trial,nbr_gen = 2931,best_cost = 7757.650000,best_time = 291.828350
+2025-06-07 06:31:58.142307 | finishing...!
+2025-06-07 06:31:58.142680 | found best objective = 7757.65
+2025-06-07 06:31:58.143024 | number of times to find the best solution = 1
+2025-06-07 06:31:58.143440 | average value of the best objective value = 7757.65
+2025-06-07 06:31:58.143776 | average value of the best time (second) = 291.828
+
+Instância 6/20 | Trial 8/10 | SUCESSO | Duração: 3600.22s | Melhor Custo: 7757.650000 | 2025-06-07 06:31:58.144144
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 9/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 06:31:59.145859
+================================================================================
+2025-06-07 06:31:59.157441 | Dataset: MDG-a
+2025-06-07 06:31:59.160027 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 06:31:59.160891 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 06:31:59.250169 | Finish loading data!
+2025-06-07 07:31:59.327255 | using OBL!!!
+2025-06-07 07:31:59.328501 | finish 1-th trial,nbr_gen = 2922,best_cost = 7757.650000,best_time = 2037.931136
+2025-06-07 07:31:59.329071 | finishing...!
+2025-06-07 07:31:59.329521 | found best objective = 7757.65
+2025-06-07 07:31:59.329900 | number of times to find the best solution = 1
+2025-06-07 07:31:59.330338 | average value of the best objective value = 7757.65
+2025-06-07 07:31:59.330701 | average value of the best time (second) = 2037.93
+
+Instância 6/20 | Trial 9/10 | SUCESSO | Duração: 3600.19s | Melhor Custo: 7757.650000 | 2025-06-07 07:31:59.331103
+================================================================================
+
+
+================================================================================
+Instância 6/20 | Trial 10/10 | ./OBMA instances/MDG-a_12_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 07:32:00.332967
+================================================================================
+2025-06-07 07:32:00.346603 | Dataset: MDG-a
+2025-06-07 07:32:00.350300 | The statistics of the instance instances/MDG-a_12_n500_m50.txt
+2025-06-07 07:32:00.350966 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 07:32:00.450963 | Finish loading data!
+2025-06-07 08:32:00.520346 | using OBL!!!
+2025-06-07 08:32:00.521695 | finish 1-th trial,nbr_gen = 3009,best_cost = 7757.650000,best_time = 3547.177184
+2025-06-07 08:32:00.522229 | finishing...!
+2025-06-07 08:32:00.522699 | found best objective = 7757.65
+2025-06-07 08:32:00.523098 | number of times to find the best solution = 1
+2025-06-07 08:32:00.523602 | average value of the best objective value = 7757.65
+2025-06-07 08:32:00.523953 | average value of the best time (second) = 3547.18
+
+Instância 6/20 | Trial 10/10 | SUCESSO | Duração: 3600.19s | Melhor Custo: 7757.650000 | 2025-06-07 08:32:00.524347
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 1/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 08:32:01.527245
+================================================================================
+2025-06-07 08:32:01.553418 | Dataset: MDG-a
+2025-06-07 08:32:01.556772 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 08:32:01.557511 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 08:32:01.666811 | Finish loading data!
+2025-06-07 09:32:01.754160 | using OBL!!!
+2025-06-07 09:32:01.762132 | finish 1-th trial,nbr_gen = 2569,best_cost = 7795.630000,best_time = 1902.178962
+2025-06-07 09:32:01.762676 | finishing...!
+2025-06-07 09:32:01.763754 | found best objective = 7795.63
+2025-06-07 09:32:01.765165 | number of times to find the best solution = 1
+2025-06-07 09:32:01.765644 | average value of the best objective value = 7795.63
+2025-06-07 09:32:01.766069 | average value of the best time (second) = 1902.18
+
+Instância 7/20 | Trial 1/10 | SUCESSO | Duração: 3600.24s | Melhor Custo: 7795.630000 | 2025-06-07 09:32:01.770411
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 2/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 09:32:02.795145
+================================================================================
+2025-06-07 09:32:02.871270 | Dataset: MDG-a
+2025-06-07 09:32:02.907026 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 09:32:02.907970 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 09:32:03.076479 | Finish loading data!
+2025-06-07 10:32:00.387292 | using OBL!!!
+2025-06-07 10:32:00.395021 | finish 1-th trial,nbr_gen = 2448,best_cost = 7795.630000,best_time = 3237.886793
+2025-06-07 10:32:00.395938 | finishing...!
+2025-06-07 10:32:00.397049 | found best objective = 7795.63
+2025-06-07 10:32:00.398025 | number of times to find the best solution = 1
+2025-06-07 10:32:00.398370 | average value of the best objective value = 7795.63
+2025-06-07 10:32:00.398639 | average value of the best time (second) = 3237.89
+
+Instância 7/20 | Trial 2/10 | SUCESSO | Duração: 3597.61s | Melhor Custo: 7795.630000 | 2025-06-07 10:32:00.402422
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 3/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 10:32:01.423400
+================================================================================
+2025-06-07 10:32:01.484451 | Dataset: MDG-a
+2025-06-07 10:32:01.490513 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 10:32:01.491364 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 10:32:01.590815 | Finish loading data!
+2025-06-07 11:32:01.682404 | using OBL!!!
+2025-06-07 11:32:01.689390 | finish 1-th trial,nbr_gen = 2877,best_cost = 7795.630000,best_time = 379.777458
+2025-06-07 11:32:01.690337 | finishing...!
+2025-06-07 11:32:01.690815 | found best objective = 7795.63
+2025-06-07 11:32:01.691702 | number of times to find the best solution = 1
+2025-06-07 11:32:01.692212 | average value of the best objective value = 7795.63
+2025-06-07 11:32:01.692610 | average value of the best time (second) = 379.777
+
+Instância 7/20 | Trial 3/10 | SUCESSO | Duração: 3600.27s | Melhor Custo: 7795.630000 | 2025-06-07 11:32:01.696650
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 4/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 11:32:02.703742
+================================================================================
+2025-06-07 11:32:02.768833 | Dataset: MDG-a
+2025-06-07 11:32:02.885861 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 11:32:02.886951 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 11:32:03.029303 | Finish loading data!
+2025-06-07 12:32:03.138692 | using OBL!!!
+2025-06-07 12:32:03.155923 | finish 1-th trial,nbr_gen = 1841,best_cost = 7795.630000,best_time = 1301.858764
+2025-06-07 12:32:03.156910 | finishing...!
+2025-06-07 12:32:03.157903 | found best objective = 7795.63
+2025-06-07 12:32:03.158725 | number of times to find the best solution = 1
+2025-06-07 12:32:03.159161 | average value of the best objective value = 7795.63
+2025-06-07 12:32:03.159617 | average value of the best time (second) = 1301.86
+
+Instância 7/20 | Trial 4/10 | SUCESSO | Duração: 3600.47s | Melhor Custo: 7795.630000 | 2025-06-07 12:32:03.170740
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 5/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 12:32:04.197784
+================================================================================
+2025-06-07 12:32:04.287789 | Dataset: MDG-a
+2025-06-07 12:32:04.427201 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 12:32:04.427811 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 12:32:04.528234 | Finish loading data!
+2025-06-07 13:32:04.634830 | using OBL!!!
+2025-06-07 13:32:04.642254 | finish 1-th trial,nbr_gen = 2811,best_cost = 7795.630000,best_time = 1214.066499
+2025-06-07 13:32:04.643057 | finishing...!
+2025-06-07 13:32:04.644266 | found best objective = 7795.63
+2025-06-07 13:32:04.645115 | number of times to find the best solution = 1
+2025-06-07 13:32:04.645575 | average value of the best objective value = 7795.63
+2025-06-07 13:32:04.646190 | average value of the best time (second) = 1214.07
+
+Instância 7/20 | Trial 5/10 | SUCESSO | Duração: 3600.45s | Melhor Custo: 7795.630000 | 2025-06-07 13:32:04.649365
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 6/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 13:32:05.668719
+================================================================================
+2025-06-07 13:32:05.731131 | Dataset: MDG-a
+2025-06-07 13:32:05.734821 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 13:32:05.735548 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 13:32:05.907341 | Finish loading data!
+2025-06-07 14:32:06.053154 | using OBL!!!
+2025-06-07 14:32:06.062392 | finish 1-th trial,nbr_gen = 2594,best_cost = 7795.630000,best_time = 1197.411475
+2025-06-07 14:32:06.062983 | finishing...!
+2025-06-07 14:32:06.063806 | found best objective = 7795.63
+2025-06-07 14:32:06.064602 | number of times to find the best solution = 1
+2025-06-07 14:32:06.065340 | average value of the best objective value = 7795.63
+2025-06-07 14:32:06.065806 | average value of the best time (second) = 1197.41
+
+Instância 7/20 | Trial 6/10 | SUCESSO | Duração: 3600.40s | Melhor Custo: 7795.630000 | 2025-06-07 14:32:06.070366
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 7/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 14:32:07.097129
+================================================================================
+2025-06-07 14:32:07.189200 | Dataset: MDG-a
+2025-06-07 14:32:07.291293 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 14:32:07.291904 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 14:32:07.463135 | Finish loading data!
+2025-06-07 15:32:07.568226 | using OBL!!!
+2025-06-07 15:32:07.573993 | finish 1-th trial,nbr_gen = 2607,best_cost = 7795.630000,best_time = 603.549524
+2025-06-07 15:32:07.574882 | finishing...!
+2025-06-07 15:32:07.575805 | found best objective = 7795.63
+2025-06-07 15:32:07.576687 | number of times to find the best solution = 1
+2025-06-07 15:32:07.577082 | average value of the best objective value = 7795.63
+2025-06-07 15:32:07.577453 | average value of the best time (second) = 603.55
+
+Instância 7/20 | Trial 7/10 | SUCESSO | Duração: 3600.49s | Melhor Custo: 7795.630000 | 2025-06-07 15:32:07.587537
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 8/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 15:32:08.596048
+================================================================================
+2025-06-07 15:32:08.643005 | Dataset: MDG-a
+2025-06-07 15:32:08.691387 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 15:32:08.691981 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 15:32:08.827009 | Finish loading data!
+2025-06-07 16:32:08.874238 | using OBL!!!
+2025-06-07 16:32:08.876927 | finish 1-th trial,nbr_gen = 2588,best_cost = 7795.630000,best_time = 2166.915039
+2025-06-07 16:32:08.877877 | finishing...!
+2025-06-07 16:32:08.878650 | found best objective = 7795.63
+2025-06-07 16:32:08.879383 | number of times to find the best solution = 1
+2025-06-07 16:32:08.879882 | average value of the best objective value = 7795.63
+2025-06-07 16:32:08.880654 | average value of the best time (second) = 2166.92
+
+Instância 7/20 | Trial 8/10 | SUCESSO | Duração: 3600.29s | Melhor Custo: 7795.630000 | 2025-06-07 16:32:08.882508
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 9/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 16:32:09.891193
+================================================================================
+2025-06-07 16:32:09.934836 | Dataset: MDG-a
+2025-06-07 16:32:10.003098 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 16:32:10.003816 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 16:32:10.131540 | Finish loading data!
+2025-06-07 17:32:10.225892 | using OBL!!!
+2025-06-07 17:32:10.233768 | finish 1-th trial,nbr_gen = 2293,best_cost = 7795.630000,best_time = 214.008919
+2025-06-07 17:32:10.234631 | finishing...!
+2025-06-07 17:32:10.235418 | found best objective = 7795.63
+2025-06-07 17:32:10.236020 | number of times to find the best solution = 1
+2025-06-07 17:32:10.236560 | average value of the best objective value = 7795.63
+2025-06-07 17:32:10.237032 | average value of the best time (second) = 214.009
+
+Instância 7/20 | Trial 9/10 | SUCESSO | Duração: 3600.35s | Melhor Custo: 7795.630000 | 2025-06-07 17:32:10.240879
+================================================================================
+
+
+================================================================================
+Instância 7/20 | Trial 10/10 | ./OBMA instances/MDG-a_14_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 17:32:11.262370
+================================================================================
+2025-06-07 17:32:11.324329 | Dataset: MDG-a
+2025-06-07 17:32:11.345118 | The statistics of the instance instances/MDG-a_14_n500_m50.txt
+2025-06-07 17:32:11.345809 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 17:32:11.476054 | Finish loading data!
+2025-06-07 18:32:11.504557 | using OBL!!!
+2025-06-07 18:32:11.507222 | finish 1-th trial,nbr_gen = 2768,best_cost = 7795.630000,best_time = 2290.931247
+2025-06-07 18:32:11.508116 | finishing...!
+2025-06-07 18:32:11.508865 | found best objective = 7795.63
+2025-06-07 18:32:11.509495 | number of times to find the best solution = 1
+2025-06-07 18:32:11.510021 | average value of the best objective value = 7795.63
+2025-06-07 18:32:11.510890 | average value of the best time (second) = 2290.93
+
+Instância 7/20 | Trial 10/10 | SUCESSO | Duração: 3600.25s | Melhor Custo: 7795.630000 | 2025-06-07 18:32:11.513140
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 1/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 18:32:12.523319
+================================================================================
+2025-06-07 18:32:12.602767 | Dataset: MDG-a
+2025-06-07 18:32:12.608440 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 18:32:12.608966 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 18:32:12.776461 | Finish loading data!
+2025-06-07 19:32:12.866950 | using OBL!!!
+2025-06-07 19:32:12.876406 | finish 1-th trial,nbr_gen = 2359,best_cost = 7792.770000,best_time = 2095.735027
+2025-06-07 19:32:12.877788 | finishing...!
+2025-06-07 19:32:12.879045 | found best objective = 7792.77
+2025-06-07 19:32:12.880114 | number of times to find the best solution = 1
+2025-06-07 19:32:12.880780 | average value of the best objective value = 7792.77
+2025-06-07 19:32:12.881292 | average value of the best time (second) = 2095.74
+
+Instância 8/20 | Trial 1/10 | SUCESSO | Duração: 3600.36s | Melhor Custo: 7792.770000 | 2025-06-07 19:32:12.886491
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 2/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 19:32:13.914594
+================================================================================
+2025-06-07 19:32:14.041664 | Dataset: MDG-a
+2025-06-07 19:32:14.115348 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 19:32:14.116424 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 19:32:14.407654 | Finish loading data!
+2025-06-07 20:32:14.428090 | using OBL!!!
+2025-06-07 20:32:14.429176 | finish 1-th trial,nbr_gen = 2578,best_cost = 7792.770000,best_time = 3583.189209
+2025-06-07 20:32:14.429744 | finishing...!
+2025-06-07 20:32:14.430115 | found best objective = 7792.77
+2025-06-07 20:32:14.431351 | number of times to find the best solution = 1
+2025-06-07 20:32:14.432364 | average value of the best objective value = 7792.77
+2025-06-07 20:32:14.432963 | average value of the best time (second) = 3583.19
+
+Instância 8/20 | Trial 2/10 | SUCESSO | Duração: 3600.52s | Melhor Custo: 7792.770000 | 2025-06-07 20:32:14.433403
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 3/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 20:32:15.435090
+================================================================================
+2025-06-07 20:32:15.454190 | Dataset: MDG-a
+2025-06-07 20:32:15.457741 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 20:32:15.458483 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 20:32:15.573972 | Finish loading data!
+2025-06-07 21:32:15.635202 | using OBL!!!
+2025-06-07 21:32:15.643584 | finish 1-th trial,nbr_gen = 1893,best_cost = 7792.770000,best_time = 611.569218
+2025-06-07 21:32:15.644395 | finishing...!
+2025-06-07 21:32:15.645283 | found best objective = 7792.77
+2025-06-07 21:32:15.645862 | number of times to find the best solution = 1
+2025-06-07 21:32:15.646766 | average value of the best objective value = 7792.77
+2025-06-07 21:32:15.647385 | average value of the best time (second) = 611.569
+
+Instância 8/20 | Trial 3/10 | SUCESSO | Duração: 3600.22s | Melhor Custo: 7792.770000 | 2025-06-07 21:32:15.651590
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 4/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 21:32:16.673919
+================================================================================
+2025-06-07 21:32:16.742881 | Dataset: MDG-a
+2025-06-07 21:32:16.814820 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 21:32:16.815516 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 21:32:16.944478 | Finish loading data!
+2025-06-07 22:32:17.006866 | using OBL!!!
+2025-06-07 22:32:17.017745 | finish 1-th trial,nbr_gen = 2066,best_cost = 7792.770000,best_time = 2758.637535
+2025-06-07 22:32:17.019140 | finishing...!
+2025-06-07 22:32:17.020403 | found best objective = 7792.77
+2025-06-07 22:32:17.021419 | number of times to find the best solution = 1
+2025-06-07 22:32:17.021939 | average value of the best objective value = 7792.77
+2025-06-07 22:32:17.022527 | average value of the best time (second) = 2758.64
+
+Instância 8/20 | Trial 4/10 | SUCESSO | Duração: 3600.35s | Melhor Custo: 7792.770000 | 2025-06-07 22:32:17.027045
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 5/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 22:32:18.052419
+================================================================================
+2025-06-07 22:32:18.152437 | Dataset: MDG-a
+2025-06-07 22:32:18.224973 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 22:32:18.225838 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 22:32:18.398526 | Finish loading data!
+2025-06-07 23:32:18.476989 | using OBL!!!
+2025-06-07 23:32:18.495562 | finish 1-th trial,nbr_gen = 1989,best_cost = 7792.770000,best_time = 1782.934730
+2025-06-07 23:32:18.497706 | finishing...!
+2025-06-07 23:32:18.499172 | found best objective = 7792.77
+2025-06-07 23:32:18.500876 | number of times to find the best solution = 1
+2025-06-07 23:32:18.501284 | average value of the best objective value = 7792.77
+2025-06-07 23:32:18.501777 | average value of the best time (second) = 1782.93
+
+Instância 8/20 | Trial 5/10 | SUCESSO | Duração: 3600.48s | Melhor Custo: 7792.770000 | 2025-06-07 23:32:18.533524
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 6/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-07 23:32:19.565031
+================================================================================
+2025-06-07 23:32:19.679227 | Dataset: MDG-a
+2025-06-07 23:32:19.759492 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-07 23:32:19.760059 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-07 23:32:19.897594 | Finish loading data!
+2025-06-08 00:32:19.915594 | using OBL!!!
+2025-06-08 00:32:19.917062 | finish 1-th trial,nbr_gen = 2574,best_cost = 7792.770000,best_time = 454.812166
+2025-06-08 00:32:19.917904 | finishing...!
+2025-06-08 00:32:19.918548 | found best objective = 7792.77
+2025-06-08 00:32:19.919466 | number of times to find the best solution = 1
+2025-06-08 00:32:19.919811 | average value of the best objective value = 7792.77
+2025-06-08 00:32:19.920191 | average value of the best time (second) = 454.812
+
+Instância 8/20 | Trial 6/10 | SUCESSO | Duração: 3600.36s | Melhor Custo: 7792.770000 | 2025-06-08 00:32:19.920753
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 7/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 00:32:20.922679
+================================================================================
+2025-06-08 00:32:20.945782 | Dataset: MDG-a
+2025-06-08 00:32:20.949336 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-08 00:32:20.949948 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 00:32:21.073292 | Finish loading data!
+2025-06-08 01:32:21.100950 | using OBL!!!
+2025-06-08 01:32:21.105808 | finish 1-th trial,nbr_gen = 2835,best_cost = 7792.770000,best_time = 2409.485228
+2025-06-08 01:32:21.106617 | finishing...!
+2025-06-08 01:32:21.107267 | found best objective = 7792.77
+2025-06-08 01:32:21.108173 | number of times to find the best solution = 1
+2025-06-08 01:32:21.108708 | average value of the best objective value = 7792.77
+2025-06-08 01:32:21.109156 | average value of the best time (second) = 2409.49
+
+Instância 8/20 | Trial 7/10 | SUCESSO | Duração: 3600.19s | Melhor Custo: 7792.770000 | 2025-06-08 01:32:21.115938
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 8/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 01:32:22.125939
+================================================================================
+2025-06-08 01:32:22.166121 | Dataset: MDG-a
+2025-06-08 01:32:22.257191 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-08 01:32:22.257891 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 01:32:22.382265 | Finish loading data!
+2025-06-08 02:32:22.396456 | using OBL!!!
+2025-06-08 02:32:22.397703 | finish 1-th trial,nbr_gen = 2658,best_cost = 7792.770000,best_time = 1446.037112
+2025-06-08 02:32:22.398584 | finishing...!
+2025-06-08 02:32:22.399420 | found best objective = 7792.77
+2025-06-08 02:32:22.400005 | number of times to find the best solution = 1
+2025-06-08 02:32:22.400578 | average value of the best objective value = 7792.77
+2025-06-08 02:32:22.401099 | average value of the best time (second) = 1446.04
+
+Instância 8/20 | Trial 8/10 | SUCESSO | Duração: 3600.28s | Melhor Custo: 7792.770000 | 2025-06-08 02:32:22.406454
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 9/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 02:32:23.408264
+================================================================================
+2025-06-08 02:32:23.442533 | Dataset: MDG-a
+2025-06-08 02:32:23.448898 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-08 02:32:23.449732 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 02:32:23.655709 | Finish loading data!
+2025-06-08 03:32:23.687322 | using OBL!!!
+2025-06-08 03:32:23.688589 | finish 1-th trial,nbr_gen = 2750,best_cost = 7792.770000,best_time = 1364.700996
+2025-06-08 03:32:23.689073 | finishing...!
+2025-06-08 03:32:23.689534 | found best objective = 7792.77
+2025-06-08 03:32:23.689985 | number of times to find the best solution = 1
+2025-06-08 03:32:23.690534 | average value of the best objective value = 7792.77
+2025-06-08 03:32:23.691008 | average value of the best time (second) = 1364.7
+
+Instância 8/20 | Trial 9/10 | SUCESSO | Duração: 3600.28s | Melhor Custo: 7792.770000 | 2025-06-08 03:32:23.691414
+================================================================================
+
+
+================================================================================
+Instância 8/20 | Trial 10/10 | ./OBMA instances/MDG-a_16_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 03:32:24.693195
+================================================================================
+2025-06-08 03:32:24.710102 | Dataset: MDG-a
+2025-06-08 03:32:24.745220 | The statistics of the instance instances/MDG-a_16_n500_m50.txt
+2025-06-08 03:32:24.745975 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 03:32:24.892318 | Finish loading data!
+2025-06-08 04:32:24.906454 | using OBL!!!
+2025-06-08 04:32:24.908110 | finish 1-th trial,nbr_gen = 2833,best_cost = 7792.770000,best_time = 1737.155324
+2025-06-08 04:32:24.908530 | finishing...!
+2025-06-08 04:32:24.908944 | found best objective = 7792.77
+2025-06-08 04:32:24.909297 | number of times to find the best solution = 1
+2025-06-08 04:32:24.909676 | average value of the best objective value = 7792.77
+2025-06-08 04:32:24.910022 | average value of the best time (second) = 1737.16
+
+Instância 8/20 | Trial 10/10 | SUCESSO | Duração: 3600.22s | Melhor Custo: 7792.770000 | 2025-06-08 04:32:24.910519
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 1/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 04:32:25.912986
+================================================================================
+2025-06-08 04:32:25.944205 | Dataset: MDG-a
+2025-06-08 04:32:25.946316 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 04:32:25.947022 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 04:32:26.085688 | Finish loading data!
+2025-06-08 05:32:26.158186 | using OBL!!!
+2025-06-08 05:32:26.159182 | finish 1-th trial,nbr_gen = 2865,best_cost = 7756.260000,best_time = 689.168798
+2025-06-08 05:32:26.159814 | finishing...!
+2025-06-08 05:32:26.160399 | found best objective = 7756.26
+2025-06-08 05:32:26.160768 | number of times to find the best solution = 1
+2025-06-08 05:32:26.161083 | average value of the best objective value = 7756.26
+2025-06-08 05:32:26.161451 | average value of the best time (second) = 689.169
+
+Instância 9/20 | Trial 1/10 | SUCESSO | Duração: 3600.25s | Melhor Custo: 7756.260000 | 2025-06-08 05:32:26.161810
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 2/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 05:32:27.163413
+================================================================================
+2025-06-08 05:32:27.212654 | Dataset: MDG-a
+2025-06-08 05:32:27.250299 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 05:32:27.250936 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 05:32:27.379731 | Finish loading data!
+2025-06-08 06:32:27.395289 | using OBL!!!
+2025-06-08 06:32:27.396563 | finish 1-th trial,nbr_gen = 2899,best_cost = 7756.260000,best_time = 1329.819989
+2025-06-08 06:32:27.397010 | finishing...!
+2025-06-08 06:32:27.397373 | found best objective = 7756.26
+2025-06-08 06:32:27.397721 | number of times to find the best solution = 1
+2025-06-08 06:32:27.398049 | average value of the best objective value = 7756.26
+2025-06-08 06:32:27.398425 | average value of the best time (second) = 1329.82
+
+Instância 9/20 | Trial 2/10 | SUCESSO | Duração: 3600.24s | Melhor Custo: 7756.260000 | 2025-06-08 06:32:27.398855
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 3/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 06:32:28.400580
+================================================================================
+2025-06-08 06:32:28.412860 | Dataset: MDG-a
+2025-06-08 06:32:28.416044 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 06:32:28.416657 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 06:32:28.538572 | Finish loading data!
+2025-06-08 07:32:28.609913 | using OBL!!!
+2025-06-08 07:32:28.611486 | finish 1-th trial,nbr_gen = 2864,best_cost = 7756.260000,best_time = 1928.343380
+2025-06-08 07:32:28.612081 | finishing...!
+2025-06-08 07:32:28.612658 | found best objective = 7756.26
+2025-06-08 07:32:28.613120 | number of times to find the best solution = 1
+2025-06-08 07:32:28.613545 | average value of the best objective value = 7756.26
+2025-06-08 07:32:28.614045 | average value of the best time (second) = 1928.34
+
+Instância 9/20 | Trial 3/10 | SUCESSO | Duração: 3600.21s | Melhor Custo: 7756.260000 | 2025-06-08 07:32:28.614476
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 4/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 07:32:29.615886
+================================================================================
+2025-06-08 07:32:29.629688 | Dataset: MDG-a
+2025-06-08 07:32:29.633325 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 07:32:29.634545 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 07:32:29.757928 | Finish loading data!
+2025-06-08 08:32:29.843228 | using OBL!!!
+2025-06-08 08:32:29.844995 | finish 1-th trial,nbr_gen = 2311,best_cost = 7756.260000,best_time = 2214.207364
+2025-06-08 08:32:29.845825 | finishing...!
+2025-06-08 08:32:29.846640 | found best objective = 7756.26
+2025-06-08 08:32:29.847370 | number of times to find the best solution = 1
+2025-06-08 08:32:29.848019 | average value of the best objective value = 7756.26
+2025-06-08 08:32:29.848506 | average value of the best time (second) = 2214.21
+
+Instância 9/20 | Trial 4/10 | SUCESSO | Duração: 3600.23s | Melhor Custo: 7756.260000 | 2025-06-08 08:32:29.849175
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 5/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 08:32:30.851612
+================================================================================
+2025-06-08 08:32:30.886392 | Dataset: MDG-a
+2025-06-08 08:32:30.893539 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 08:32:30.894535 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 08:32:31.086340 | Finish loading data!
+2025-06-08 09:32:29.125695 | using OBL!!!
+2025-06-08 09:32:29.129941 | finish 1-th trial,nbr_gen = 2127,best_cost = 7756.260000,best_time = 3102.371685
+2025-06-08 09:32:29.130780 | finishing...!
+2025-06-08 09:32:29.131672 | found best objective = 7756.26
+2025-06-08 09:32:29.132390 | number of times to find the best solution = 1
+2025-06-08 09:32:29.133264 | average value of the best objective value = 7756.26
+2025-06-08 09:32:29.133980 | average value of the best time (second) = 3102.37
+
+Instância 9/20 | Trial 5/10 | SUCESSO | Duração: 3598.28s | Melhor Custo: 7756.260000 | 2025-06-08 09:32:29.134808
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 6/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 09:32:30.137636
+================================================================================
+2025-06-08 09:32:30.174202 | Dataset: MDG-a
+2025-06-08 09:32:30.246386 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 09:32:30.247526 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 09:32:30.448705 | Finish loading data!
+2025-06-08 10:32:30.570512 | using OBL!!!
+2025-06-08 10:32:30.572347 | finish 1-th trial,nbr_gen = 1670,best_cost = 7756.260000,best_time = 299.995445
+2025-06-08 10:32:30.573111 | finishing...!
+2025-06-08 10:32:30.573860 | found best objective = 7756.26
+2025-06-08 10:32:30.574566 | number of times to find the best solution = 1
+2025-06-08 10:32:30.575175 | average value of the best objective value = 7756.26
+2025-06-08 10:32:30.575810 | average value of the best time (second) = 299.995
+
+Instância 9/20 | Trial 6/10 | SUCESSO | Duração: 3600.44s | Melhor Custo: 7756.260000 | 2025-06-08 10:32:30.576483
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 7/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 10:32:31.579028
+================================================================================
+2025-06-08 10:32:31.622364 | Dataset: MDG-a
+2025-06-08 10:32:31.634836 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 10:32:31.635813 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 10:32:31.830173 | Finish loading data!
+2025-06-08 11:32:31.914024 | using OBL!!!
+2025-06-08 11:32:31.915201 | finish 1-th trial,nbr_gen = 2669,best_cost = 7756.260000,best_time = 1917.007511
+2025-06-08 11:32:31.915743 | finishing...!
+2025-06-08 11:32:31.916245 | found best objective = 7756.26
+2025-06-08 11:32:31.916689 | number of times to find the best solution = 1
+2025-06-08 11:32:31.917083 | average value of the best objective value = 7756.26
+2025-06-08 11:32:31.917459 | average value of the best time (second) = 1917.01
+
+Instância 9/20 | Trial 7/10 | SUCESSO | Duração: 3600.34s | Melhor Custo: 7756.260000 | 2025-06-08 11:32:31.917830
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 8/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 11:32:32.919150
+================================================================================
+2025-06-08 11:32:32.932785 | Dataset: MDG-a
+2025-06-08 11:32:32.951128 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 11:32:32.951779 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 11:32:33.083949 | Finish loading data!
+2025-06-08 12:32:33.219569 | using OBL!!!
+2025-06-08 12:32:33.229593 | finish 1-th trial,nbr_gen = 2458,best_cost = 7756.260000,best_time = 2472.702762
+2025-06-08 12:32:33.232252 | finishing...!
+2025-06-08 12:32:33.233781 | found best objective = 7756.26
+2025-06-08 12:32:33.234769 | number of times to find the best solution = 1
+2025-06-08 12:32:33.235361 | average value of the best objective value = 7756.26
+2025-06-08 12:32:33.235976 | average value of the best time (second) = 2472.7
+
+Instância 9/20 | Trial 8/10 | SUCESSO | Duração: 3600.32s | Melhor Custo: 7756.260000 | 2025-06-08 12:32:33.243559
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 9/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 12:32:34.271253
+================================================================================
+2025-06-08 12:32:34.394837 | Dataset: MDG-a
+2025-06-08 12:32:34.533496 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 12:32:34.534161 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 12:32:34.707224 | Finish loading data!
+2025-06-08 13:32:34.907963 | using OBL!!!
+2025-06-08 13:32:34.921800 | finish 1-th trial,nbr_gen = 1529,best_cost = 7756.260000,best_time = 2459.490932
+2025-06-08 13:32:34.923190 | finishing...!
+2025-06-08 13:32:34.924867 | found best objective = 7756.26
+2025-06-08 13:32:34.926678 | number of times to find the best solution = 1
+2025-06-08 13:32:34.927480 | average value of the best objective value = 7756.26
+2025-06-08 13:32:34.928377 | average value of the best time (second) = 2459.49
+
+Instância 9/20 | Trial 9/10 | SUCESSO | Duração: 3600.66s | Melhor Custo: 7756.260000 | 2025-06-08 13:32:34.935471
+================================================================================
+
+
+================================================================================
+Instância 9/20 | Trial 10/10 | ./OBMA instances/MDG-a_18_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 13:32:35.968562
+================================================================================
+2025-06-08 13:32:36.114043 | Dataset: MDG-a
+2025-06-08 13:32:36.233465 | The statistics of the instance instances/MDG-a_18_n500_m50.txt
+2025-06-08 13:32:36.234275 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 13:32:36.389786 | Finish loading data!
+2025-06-08 14:32:36.508636 | using OBL!!!
+2025-06-08 14:32:36.510046 | finish 1-th trial,nbr_gen = 1409,best_cost = 7756.260000,best_time = 839.170019
+2025-06-08 14:32:36.510753 | finishing...!
+2025-06-08 14:32:36.511378 | found best objective = 7756.26
+2025-06-08 14:32:36.511928 | number of times to find the best solution = 1
+2025-06-08 14:32:36.512420 | average value of the best objective value = 7756.26
+2025-06-08 14:32:36.512938 | average value of the best time (second) = 839.17
+
+Instância 9/20 | Trial 10/10 | SUCESSO | Duração: 3600.54s | Melhor Custo: 7756.260000 | 2025-06-08 14:32:36.513453
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 1/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 14:32:37.518102
+================================================================================
+2025-06-08 14:32:37.583415 | Dataset: MDG-a
+2025-06-08 14:32:37.587306 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 14:32:37.588240 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 14:32:37.784886 | Finish loading data!
+2025-06-08 15:32:37.889860 | using OBL!!!
+2025-06-08 15:32:37.895345 | finish 1-th trial,nbr_gen = 1667,best_cost = 7733.860000,best_time = 2608.420150
+2025-06-08 15:32:37.896743 | finishing...!
+2025-06-08 15:32:37.899917 | found best objective = 7733.86
+2025-06-08 15:32:37.901537 | number of times to find the best solution = 1
+2025-06-08 15:32:37.902527 | average value of the best objective value = 7733.86
+2025-06-08 15:32:37.903513 | average value of the best time (second) = 2608.42
+
+Instância 10/20 | Trial 1/10 | SUCESSO | Duração: 3600.40s | Melhor Custo: 7733.860000 | 2025-06-08 15:32:37.920469
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 2/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 15:32:38.930624
+================================================================================
+2025-06-08 15:32:38.980013 | Dataset: MDG-a
+2025-06-08 15:32:39.045606 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 15:32:39.046258 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 15:32:39.261962 | Finish loading data!
+2025-06-08 16:32:39.450420 | using OBL!!!
+2025-06-08 16:32:39.470736 | finish 1-th trial,nbr_gen = 1867,best_cost = 7733.860000,best_time = 3354.800222
+2025-06-08 16:32:39.472071 | finishing...!
+2025-06-08 16:32:39.473139 | found best objective = 7733.86
+2025-06-08 16:32:39.473871 | number of times to find the best solution = 1
+2025-06-08 16:32:39.474642 | average value of the best objective value = 7733.86
+2025-06-08 16:32:39.475359 | average value of the best time (second) = 3354.8
+
+Instância 10/20 | Trial 2/10 | SUCESSO | Duração: 3600.56s | Melhor Custo: 7733.860000 | 2025-06-08 16:32:39.492537
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 3/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 16:32:40.519398
+================================================================================
+2025-06-08 16:32:40.643174 | Dataset: MDG-a
+2025-06-08 16:32:40.812042 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 16:32:40.812834 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 16:32:41.056575 | Finish loading data!
+2025-06-08 17:32:41.196588 | using OBL!!!
+2025-06-08 17:32:41.215526 | finish 1-th trial,nbr_gen = 2346,best_cost = 7733.860000,best_time = 2982.077149
+2025-06-08 17:32:41.217117 | finishing...!
+2025-06-08 17:32:41.218280 | found best objective = 7733.86
+2025-06-08 17:32:41.219329 | number of times to find the best solution = 1
+2025-06-08 17:32:41.219798 | average value of the best objective value = 7733.86
+2025-06-08 17:32:41.220267 | average value of the best time (second) = 2982.08
+
+Instância 10/20 | Trial 3/10 | SUCESSO | Duração: 3600.74s | Melhor Custo: 7733.860000 | 2025-06-08 17:32:41.259350
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 4/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 17:32:42.287801
+================================================================================
+2025-06-08 17:32:42.369659 | Dataset: MDG-a
+2025-06-08 17:32:42.445735 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 17:32:42.446315 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 17:32:42.552821 | Finish loading data!
+2025-06-08 18:32:42.729462 | using OBL!!!
+2025-06-08 18:32:42.738290 | finish 1-th trial,nbr_gen = 2123,best_cost = 7733.860000,best_time = 2561.742847
+2025-06-08 18:32:42.739153 | finishing...!
+2025-06-08 18:32:42.740191 | found best objective = 7733.86
+2025-06-08 18:32:42.740895 | number of times to find the best solution = 1
+2025-06-08 18:32:42.741207 | average value of the best objective value = 7733.86
+2025-06-08 18:32:42.741556 | average value of the best time (second) = 2561.74
+
+Instância 10/20 | Trial 4/10 | SUCESSO | Duração: 3600.46s | Melhor Custo: 7733.860000 | 2025-06-08 18:32:42.745688
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 5/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 18:32:43.773526
+================================================================================
+2025-06-08 18:32:43.909267 | Dataset: MDG-a
+2025-06-08 18:32:43.953557 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 18:32:43.954307 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 18:32:44.086805 | Finish loading data!
+2025-06-08 19:32:44.216529 | using OBL!!!
+2025-06-08 19:32:44.233938 | finish 1-th trial,nbr_gen = 1962,best_cost = 7733.860000,best_time = 399.191906
+2025-06-08 19:32:44.234950 | finishing...!
+2025-06-08 19:32:44.236059 | found best objective = 7733.86
+2025-06-08 19:32:44.236888 | number of times to find the best solution = 1
+2025-06-08 19:32:44.237194 | average value of the best objective value = 7733.86
+2025-06-08 19:32:44.237672 | average value of the best time (second) = 399.192
+
+Instância 10/20 | Trial 5/10 | SUCESSO | Duração: 3600.49s | Melhor Custo: 7733.860000 | 2025-06-08 19:32:44.267115
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 6/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 19:32:45.290900
+================================================================================
+2025-06-08 19:32:45.394286 | Dataset: MDG-a
+2025-06-08 19:32:45.481004 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 19:32:45.481661 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 19:32:45.609197 | Finish loading data!
+2025-06-08 20:32:45.719847 | using OBL!!!
+2025-06-08 20:32:45.720719 | finish 1-th trial,nbr_gen = 2342,best_cost = 7733.860000,best_time = 1354.791790
+2025-06-08 20:32:45.721151 | finishing...!
+2025-06-08 20:32:45.721580 | found best objective = 7733.86
+2025-06-08 20:32:45.721939 | number of times to find the best solution = 1
+2025-06-08 20:32:45.722273 | average value of the best objective value = 7733.86
+2025-06-08 20:32:45.722599 | average value of the best time (second) = 1354.79
+
+Instância 10/20 | Trial 6/10 | SUCESSO | Duração: 3600.44s | Melhor Custo: 7733.860000 | 2025-06-08 20:32:45.731411
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 7/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 20:32:46.733057
+================================================================================
+2025-06-08 20:32:46.760926 | Dataset: MDG-a
+2025-06-08 20:32:46.857414 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 20:32:46.858061 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 20:32:46.973431 | Finish loading data!
+2025-06-08 21:32:47.140020 | using OBL!!!
+2025-06-08 21:32:47.166938 | finish 1-th trial,nbr_gen = 2133,best_cost = 7733.860000,best_time = 1858.658366
+2025-06-08 21:32:47.168445 | finishing...!
+2025-06-08 21:32:47.169565 | found best objective = 7733.86
+2025-06-08 21:32:47.171185 | number of times to find the best solution = 1
+2025-06-08 21:32:47.171825 | average value of the best objective value = 7733.86
+2025-06-08 21:32:47.172575 | average value of the best time (second) = 1858.66
+
+Instância 10/20 | Trial 7/10 | SUCESSO | Duração: 3600.46s | Melhor Custo: 7733.860000 | 2025-06-08 21:32:47.189402
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 8/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 21:32:48.226209
+================================================================================
+2025-06-08 21:32:48.378853 | Dataset: MDG-a
+2025-06-08 21:32:48.477395 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 21:32:48.478440 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 21:32:48.668906 | Finish loading data!
+2025-06-08 22:32:48.804096 | using OBL!!!
+2025-06-08 22:32:48.824802 | finish 1-th trial,nbr_gen = 1921,best_cost = 7733.860000,best_time = 1550.372263
+2025-06-08 22:32:48.826237 | finishing...!
+2025-06-08 22:32:48.827243 | found best objective = 7733.86
+2025-06-08 22:32:48.828379 | number of times to find the best solution = 1
+2025-06-08 22:32:48.828886 | average value of the best objective value = 7733.86
+2025-06-08 22:32:48.829349 | average value of the best time (second) = 1550.37
+
+Instância 10/20 | Trial 8/10 | SUCESSO | Duração: 3600.66s | Melhor Custo: 7733.860000 | 2025-06-08 22:32:48.887899
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 9/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 22:32:49.920577
+================================================================================
+2025-06-08 22:32:50.108841 | Dataset: MDG-a
+2025-06-08 22:32:50.288268 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 22:32:50.289138 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 22:32:50.510704 | Finish loading data!
+2025-06-08 23:32:50.619781 | using OBL!!!
+2025-06-08 23:32:50.628155 | finish 1-th trial,nbr_gen = 2444,best_cost = 7733.860000,best_time = 3584.332837
+2025-06-08 23:32:50.628704 | finishing...!
+2025-06-08 23:32:50.629641 | found best objective = 7733.86
+2025-06-08 23:32:50.630422 | number of times to find the best solution = 1
+2025-06-08 23:32:50.630734 | average value of the best objective value = 7733.86
+2025-06-08 23:32:50.631007 | average value of the best time (second) = 3584.33
+
+Instância 10/20 | Trial 9/10 | SUCESSO | Duração: 3600.71s | Melhor Custo: 7733.860000 | 2025-06-08 23:32:50.635062
+================================================================================
+
+
+================================================================================
+Instância 10/20 | Trial 10/10 | ./OBMA instances/MDG-a_20_n500_m50.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-08 23:32:51.658901
+================================================================================
+2025-06-08 23:32:51.754652 | Dataset: MDG-a
+2025-06-08 23:32:51.846094 | The statistics of the instance instances/MDG-a_20_n500_m50.txt
+2025-06-08 23:32:51.846661 | n = 500, m = 50, m/n = 0.1, and density = 1
+2025-06-08 23:32:51.992138 | Finish loading data!
+2025-06-09 00:32:52.071216 | using OBL!!!
+2025-06-09 00:32:52.085864 | finish 1-th trial,nbr_gen = 2146,best_cost = 7733.860000,best_time = 993.706276
+2025-06-09 00:32:52.088018 | finishing...!
+2025-06-09 00:32:52.089372 | found best objective = 7733.86
+2025-06-09 00:32:52.091062 | number of times to find the best solution = 1
+2025-06-09 00:32:52.091543 | average value of the best objective value = 7733.86
+2025-06-09 00:32:52.092036 | average value of the best time (second) = 993.706
+
+Instância 10/20 | Trial 10/10 | SUCESSO | Duração: 3600.46s | Melhor Custo: 7733.860000 | 2025-06-09 00:32:52.115294
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 1/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 00:32:53.150896
+================================================================================
+2025-06-09 00:32:53.305295 | Dataset: MDG-a
+2025-06-09 00:32:54.139368 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 00:32:54.140037 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 00:32:56.649913 | Finish loading data!
+2025-06-09 01:32:56.686521 | using OBL!!!
+2025-06-09 01:32:56.687626 | finish 1-th trial,nbr_gen = 307,best_cost = 114327.000000,best_time = 30.318879
+2025-06-09 01:32:56.688580 | finishing...!
+2025-06-09 01:32:56.689089 | found best objective = 114327
+2025-06-09 01:32:56.689552 | number of times to find the best solution = 1
+2025-06-09 01:32:56.689974 | average value of the best objective value = 114327
+2025-06-09 01:32:56.690512 | average value of the best time (second) = 30.3189
+
+Instância 11/20 | Trial 1/10 | SUCESSO | Duração: 3603.54s | Melhor Custo: 114327.000000 | 2025-06-09 01:32:56.690892
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 2/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 01:32:57.693085
+================================================================================
+2025-06-09 01:32:57.718037 | Dataset: MDG-a
+2025-06-09 01:32:57.868583 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 01:32:57.869151 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 01:32:59.394855 | Finish loading data!
+2025-06-09 02:32:59.421160 | using OBL!!!
+2025-06-09 02:32:59.422466 | finish 1-th trial,nbr_gen = 360,best_cost = 114327.000000,best_time = 27.814907
+2025-06-09 02:32:59.423163 | finishing...!
+2025-06-09 02:32:59.423692 | found best objective = 114327
+2025-06-09 02:32:59.424061 | number of times to find the best solution = 1
+2025-06-09 02:32:59.424481 | average value of the best objective value = 114327
+2025-06-09 02:32:59.424872 | average value of the best time (second) = 27.8149
+
+Instância 11/20 | Trial 2/10 | SUCESSO | Duração: 3601.73s | Melhor Custo: 114327.000000 | 2025-06-09 02:32:59.425250
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 3/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 02:33:00.426753
+================================================================================
+2025-06-09 02:33:00.444294 | Dataset: MDG-a
+2025-06-09 02:33:00.512268 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 02:33:00.512877 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 02:33:02.117446 | Finish loading data!
+2025-06-09 03:33:02.152137 | using OBL!!!
+2025-06-09 03:33:02.153304 | finish 1-th trial,nbr_gen = 363,best_cost = 114327.000000,best_time = 7.590223
+2025-06-09 03:33:02.153917 | finishing...!
+2025-06-09 03:33:02.154270 | found best objective = 114327
+2025-06-09 03:33:02.154644 | number of times to find the best solution = 1
+2025-06-09 03:33:02.154977 | average value of the best objective value = 114327
+2025-06-09 03:33:02.155322 | average value of the best time (second) = 7.59022
+
+Instância 11/20 | Trial 3/10 | SUCESSO | Duração: 3601.73s | Melhor Custo: 114327.000000 | 2025-06-09 03:33:02.155678
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 4/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 03:33:03.157292
+================================================================================
+2025-06-09 03:33:03.173946 | Dataset: MDG-a
+2025-06-09 03:33:03.292691 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 03:33:03.293316 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 03:33:04.806602 | Finish loading data!
+2025-06-09 04:33:04.837495 | using OBL!!!
+2025-06-09 04:33:04.838515 | finish 1-th trial,nbr_gen = 353,best_cost = 114327.000000,best_time = 28.208844
+2025-06-09 04:33:04.838969 | finishing...!
+2025-06-09 04:33:04.839443 | found best objective = 114327
+2025-06-09 04:33:04.839926 | number of times to find the best solution = 1
+2025-06-09 04:33:04.840726 | average value of the best objective value = 114327
+2025-06-09 04:33:04.841404 | average value of the best time (second) = 28.2088
+
+Instância 11/20 | Trial 4/10 | SUCESSO | Duração: 3601.68s | Melhor Custo: 114327.000000 | 2025-06-09 04:33:04.841839
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 5/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 04:33:05.843528
+================================================================================
+2025-06-09 04:33:05.861194 | Dataset: MDG-a
+2025-06-09 04:33:05.896477 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 04:33:05.897107 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 04:33:07.495884 | Finish loading data!
+2025-06-09 05:33:07.532952 | using OBL!!!
+2025-06-09 05:33:07.534089 | finish 1-th trial,nbr_gen = 361,best_cost = 114327.000000,best_time = 17.622596
+2025-06-09 05:33:07.534560 | finishing...!
+2025-06-09 05:33:07.535007 | found best objective = 114327
+2025-06-09 05:33:07.535373 | number of times to find the best solution = 1
+2025-06-09 05:33:07.535728 | average value of the best objective value = 114327
+2025-06-09 05:33:07.536108 | average value of the best time (second) = 17.6226
+
+Instância 11/20 | Trial 5/10 | SUCESSO | Duração: 3601.69s | Melhor Custo: 114327.000000 | 2025-06-09 05:33:07.536466
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 6/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 05:33:08.537955
+================================================================================
+2025-06-09 05:33:08.597749 | Dataset: MDG-a
+2025-06-09 05:33:08.637537 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 05:33:08.638248 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 05:33:10.143873 | Finish loading data!
+2025-06-09 06:33:10.167023 | using OBL!!!
+2025-06-09 06:33:10.168348 | finish 1-th trial,nbr_gen = 361,best_cost = 114327.000000,best_time = 7.816830
+2025-06-09 06:33:10.168884 | finishing...!
+2025-06-09 06:33:10.169268 | found best objective = 114327
+2025-06-09 06:33:10.169624 | number of times to find the best solution = 1
+2025-06-09 06:33:10.169922 | average value of the best objective value = 114327
+2025-06-09 06:33:10.170285 | average value of the best time (second) = 7.81683
+
+Instância 11/20 | Trial 6/10 | SUCESSO | Duração: 3601.63s | Melhor Custo: 114327.000000 | 2025-06-09 06:33:10.170658
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 7/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 06:33:11.173107
+================================================================================
+2025-06-09 06:33:11.188501 | Dataset: MDG-a
+2025-06-09 06:33:11.223212 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 06:33:11.223871 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 06:33:12.734378 | Finish loading data!
+2025-06-09 07:33:12.795354 | using OBL!!!
+2025-06-09 07:33:12.809435 | finish 1-th trial,nbr_gen = 342,best_cost = 114327.000000,best_time = 67.340445
+2025-06-09 07:33:12.810195 | finishing...!
+2025-06-09 07:33:12.811248 | found best objective = 114327
+2025-06-09 07:33:12.811867 | number of times to find the best solution = 1
+2025-06-09 07:33:12.812236 | average value of the best objective value = 114327
+2025-06-09 07:33:12.812526 | average value of the best time (second) = 67.3404
+
+Instância 11/20 | Trial 7/10 | SUCESSO | Duração: 3601.66s | Melhor Custo: 114327.000000 | 2025-06-09 07:33:12.829367
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 8/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 07:33:13.851552
+================================================================================
+2025-06-09 07:33:13.924686 | Dataset: MDG-a
+2025-06-09 07:33:14.359814 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 07:33:14.360453 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 07:33:15.784253 | Finish loading data!
+2025-06-09 08:33:15.864756 | using OBL!!!
+2025-06-09 08:33:15.875063 | finish 1-th trial,nbr_gen = 274,best_cost = 114327.000000,best_time = 8.695936
+2025-06-09 08:33:15.876063 | finishing...!
+2025-06-09 08:33:15.877530 | found best objective = 114327
+2025-06-09 08:33:15.878163 | number of times to find the best solution = 1
+2025-06-09 08:33:15.878774 | average value of the best objective value = 114327
+2025-06-09 08:33:15.879514 | average value of the best time (second) = 8.69594
+
+Instância 11/20 | Trial 8/10 | SUCESSO | Duração: 3602.03s | Melhor Custo: 114327.000000 | 2025-06-09 08:33:15.883703
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 9/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 08:33:16.907251
+================================================================================
+2025-06-09 08:33:17.001128 | Dataset: MDG-a
+2025-06-09 08:33:17.216369 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 08:33:17.217776 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 08:33:19.580773 | Finish loading data!
+2025-06-09 09:33:19.607026 | using OBL!!!
+2025-06-09 09:33:19.608252 | finish 1-th trial,nbr_gen = 360,best_cost = 114327.000000,best_time = 33.560343
+2025-06-09 09:33:19.608762 | finishing...!
+2025-06-09 09:33:19.609138 | found best objective = 114327
+2025-06-09 09:33:19.609506 | number of times to find the best solution = 1
+2025-06-09 09:33:19.609882 | average value of the best objective value = 114327
+2025-06-09 09:33:19.610356 | average value of the best time (second) = 33.5603
+
+Instância 11/20 | Trial 9/10 | SUCESSO | Duração: 3602.70s | Melhor Custo: 114327.000000 | 2025-06-09 09:33:19.610715
+================================================================================
+
+
+================================================================================
+Instância 11/20 | Trial 10/10 | ./OBMA instances/MDG-a_22_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 09:33:20.612180
+================================================================================
+2025-06-09 09:33:20.635851 | Dataset: MDG-a
+2025-06-09 09:33:20.696336 | The statistics of the instance instances/MDG-a_22_n2000_m200.txt
+2025-06-09 09:33:20.696858 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 09:33:22.085608 | Finish loading data!
+2025-06-09 10:33:22.124389 | using OBL!!!
+2025-06-09 10:33:22.125582 | finish 1-th trial,nbr_gen = 360,best_cost = 114327.000000,best_time = 16.226194
+2025-06-09 10:33:22.126209 | finishing...!
+2025-06-09 10:33:22.126670 | found best objective = 114327
+2025-06-09 10:33:22.127100 | number of times to find the best solution = 1
+2025-06-09 10:33:22.127543 | average value of the best objective value = 114327
+2025-06-09 10:33:22.128020 | average value of the best time (second) = 16.2262
+
+Instância 11/20 | Trial 10/10 | SUCESSO | Duração: 3601.52s | Melhor Custo: 114327.000000 | 2025-06-09 10:33:22.128426
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 1/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 10:33:23.131638
+================================================================================
+2025-06-09 10:33:23.168112 | Dataset: MDG-a
+2025-06-09 10:33:23.202798 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 10:33:23.203374 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 10:33:24.967613 | Finish loading data!
+2025-06-09 11:33:22.769127 | using OBL!!!
+2025-06-09 11:33:22.770405 | finish 1-th trial,nbr_gen = 357,best_cost = 114093.000000,best_time = 177.153354
+2025-06-09 11:33:22.771031 | finishing...!
+2025-06-09 11:33:22.771477 | found best objective = 114093
+2025-06-09 11:33:22.771993 | number of times to find the best solution = 1
+2025-06-09 11:33:22.772452 | average value of the best objective value = 114093
+2025-06-09 11:33:22.772845 | average value of the best time (second) = 177.153
+
+Instância 12/20 | Trial 1/10 | SUCESSO | Duração: 3599.64s | Melhor Custo: 114093.000000 | 2025-06-09 11:33:22.773260
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 2/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 11:33:23.775045
+================================================================================
+2025-06-09 11:33:23.798894 | Dataset: MDG-a
+2025-06-09 11:33:23.829296 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 11:33:23.829976 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 11:33:25.296907 | Finish loading data!
+2025-06-09 12:33:25.366743 | using OBL!!!
+2025-06-09 12:33:25.380993 | finish 1-th trial,nbr_gen = 279,best_cost = 114093.000000,best_time = 29.122986
+2025-06-09 12:33:25.382414 | finishing...!
+2025-06-09 12:33:25.383438 | found best objective = 114093
+2025-06-09 12:33:25.384185 | number of times to find the best solution = 1
+2025-06-09 12:33:25.384601 | average value of the best objective value = 114093
+2025-06-09 12:33:25.384999 | average value of the best time (second) = 29.123
+
+Instância 12/20 | Trial 2/10 | SUCESSO | Duração: 3601.63s | Melhor Custo: 114093.000000 | 2025-06-09 12:33:25.400507
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 3/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 12:33:26.423197
+================================================================================
+2025-06-09 12:33:26.497987 | Dataset: MDG-a
+2025-06-09 12:33:27.081110 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 12:33:27.081707 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 12:33:28.556497 | Finish loading data!
+2025-06-09 13:33:28.598230 | using OBL!!!
+2025-06-09 13:33:28.600554 | finish 1-th trial,nbr_gen = 305,best_cost = 114093.000000,best_time = 205.284220
+2025-06-09 13:33:28.601619 | finishing...!
+2025-06-09 13:33:28.602344 | found best objective = 114093
+2025-06-09 13:33:28.602925 | number of times to find the best solution = 1
+2025-06-09 13:33:28.603580 | average value of the best objective value = 114093
+2025-06-09 13:33:28.604396 | average value of the best time (second) = 205.284
+
+Instância 12/20 | Trial 3/10 | SUCESSO | Duração: 3602.19s | Melhor Custo: 114093.000000 | 2025-06-09 13:33:28.609307
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 4/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 13:33:29.613055
+================================================================================
+2025-06-09 13:33:29.671558 | Dataset: MDG-a
+2025-06-09 13:33:29.865326 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 13:33:29.866441 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 13:33:31.609641 | Finish loading data!
+2025-06-09 14:33:31.683116 | using OBL!!!
+2025-06-09 14:33:31.684412 | finish 1-th trial,nbr_gen = 300,best_cost = 114093.000000,best_time = 48.537691
+2025-06-09 14:33:31.685248 | finishing...!
+2025-06-09 14:33:31.685900 | found best objective = 114093
+2025-06-09 14:33:31.686349 | number of times to find the best solution = 1
+2025-06-09 14:33:31.686806 | average value of the best objective value = 114093
+2025-06-09 14:33:31.687251 | average value of the best time (second) = 48.5377
+
+Instância 12/20 | Trial 4/10 | SUCESSO | Duração: 3602.08s | Melhor Custo: 114093.000000 | 2025-06-09 14:33:31.688320
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 5/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 14:33:32.690168
+================================================================================
+2025-06-09 14:33:32.718160 | Dataset: MDG-a
+2025-06-09 14:33:32.889601 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 14:33:32.890328 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 14:33:34.522646 | Finish loading data!
+2025-06-09 15:33:34.553647 | using OBL!!!
+2025-06-09 15:33:34.554834 | finish 1-th trial,nbr_gen = 356,best_cost = 114093.000000,best_time = 93.554479
+2025-06-09 15:33:34.555392 | finishing...!
+2025-06-09 15:33:34.556009 | found best objective = 114093
+2025-06-09 15:33:34.556646 | number of times to find the best solution = 1
+2025-06-09 15:33:34.557106 | average value of the best objective value = 114093
+2025-06-09 15:33:34.557409 | average value of the best time (second) = 93.5545
+
+Instância 12/20 | Trial 5/10 | SUCESSO | Duração: 3601.87s | Melhor Custo: 114093.000000 | 2025-06-09 15:33:34.557784
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 6/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 15:33:35.559359
+================================================================================
+2025-06-09 15:33:35.581264 | Dataset: MDG-a
+2025-06-09 15:33:35.635571 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 15:33:35.636207 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 15:33:37.287775 | Finish loading data!
+2025-06-09 16:33:37.348893 | using OBL!!!
+2025-06-09 16:33:37.349970 | finish 1-th trial,nbr_gen = 355,best_cost = 114093.000000,best_time = 354.937883
+2025-06-09 16:33:37.350657 | finishing...!
+2025-06-09 16:33:37.351406 | found best objective = 114093
+2025-06-09 16:33:37.351979 | number of times to find the best solution = 1
+2025-06-09 16:33:37.352304 | average value of the best objective value = 114093
+2025-06-09 16:33:37.352620 | average value of the best time (second) = 354.938
+
+Instância 12/20 | Trial 6/10 | SUCESSO | Duração: 3601.79s | Melhor Custo: 114093.000000 | 2025-06-09 16:33:37.352930
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 7/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 16:33:38.354953
+================================================================================
+2025-06-09 16:33:38.374736 | Dataset: MDG-a
+2025-06-09 16:33:38.496123 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 16:33:38.496565 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 16:33:40.082649 | Finish loading data!
+2025-06-09 17:33:40.136010 | using OBL!!!
+2025-06-09 17:33:40.137184 | finish 1-th trial,nbr_gen = 359,best_cost = 114093.000000,best_time = 141.502743
+2025-06-09 17:33:40.137888 | finishing...!
+2025-06-09 17:33:40.138436 | found best objective = 114093
+2025-06-09 17:33:40.138828 | number of times to find the best solution = 1
+2025-06-09 17:33:40.139213 | average value of the best objective value = 114093
+2025-06-09 17:33:40.139519 | average value of the best time (second) = 141.503
+
+Instância 12/20 | Trial 7/10 | SUCESSO | Duração: 3601.78s | Melhor Custo: 114093.000000 | 2025-06-09 17:33:40.139849
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 8/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 17:33:41.141623
+================================================================================
+2025-06-09 17:33:41.161520 | Dataset: MDG-a
+2025-06-09 17:33:41.204976 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 17:33:41.205579 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 17:33:42.602331 | Finish loading data!
+2025-06-09 18:33:42.742894 | using OBL!!!
+2025-06-09 18:33:42.764703 | finish 1-th trial,nbr_gen = 303,best_cost = 114093.000000,best_time = 20.148563
+2025-06-09 18:33:42.766379 | finishing...!
+2025-06-09 18:33:42.767997 | found best objective = 114093
+2025-06-09 18:33:42.769701 | number of times to find the best solution = 1
+2025-06-09 18:33:42.770446 | average value of the best objective value = 114093
+2025-06-09 18:33:42.771081 | average value of the best time (second) = 20.1486
+
+Instância 12/20 | Trial 8/10 | SUCESSO | Duração: 3601.68s | Melhor Custo: 114093.000000 | 2025-06-09 18:33:42.819594
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 9/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 18:33:43.852635
+================================================================================
+2025-06-09 18:33:44.034147 | Dataset: MDG-a
+2025-06-09 18:33:44.915152 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 18:33:44.915855 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 18:33:47.676128 | Finish loading data!
+2025-06-09 19:33:47.750020 | using OBL!!!
+2025-06-09 19:33:47.764882 | finish 1-th trial,nbr_gen = 342,best_cost = 114093.000000,best_time = 80.775889
+2025-06-09 19:33:47.766158 | finishing...!
+2025-06-09 19:33:47.767163 | found best objective = 114093
+2025-06-09 19:33:47.768178 | number of times to find the best solution = 1
+2025-06-09 19:33:47.768878 | average value of the best objective value = 114093
+2025-06-09 19:33:47.769712 | average value of the best time (second) = 80.7759
+
+Instância 12/20 | Trial 9/10 | SUCESSO | Duração: 3603.93s | Melhor Custo: 114093.000000 | 2025-06-09 19:33:47.783428
+================================================================================
+
+
+================================================================================
+Instância 12/20 | Trial 10/10 | ./OBMA instances/MDG-a_24_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 19:33:48.807261
+================================================================================
+2025-06-09 19:33:48.895278 | Dataset: MDG-a
+2025-06-09 19:33:49.410912 | The statistics of the instance instances/MDG-a_24_n2000_m200.txt
+2025-06-09 19:33:49.411472 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 19:33:50.843909 | Finish loading data!
+2025-06-09 20:33:50.894406 | using OBL!!!
+2025-06-09 20:33:50.895572 | finish 1-th trial,nbr_gen = 353,best_cost = 114093.000000,best_time = 154.019385
+2025-06-09 20:33:50.896476 | finishing...!
+2025-06-09 20:33:50.897491 | found best objective = 114093
+2025-06-09 20:33:50.897927 | number of times to find the best solution = 1
+2025-06-09 20:33:50.898832 | average value of the best objective value = 114093
+2025-06-09 20:33:50.899190 | average value of the best time (second) = 154.019
+
+Instância 12/20 | Trial 10/10 | SUCESSO | Duração: 3602.09s | Melhor Custo: 114093.000000 | 2025-06-09 20:33:50.899561
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 1/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 20:33:51.902799
+================================================================================
+2025-06-09 20:33:51.943774 | Dataset: MDG-a
+2025-06-09 20:33:52.023363 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-09 20:33:52.023998 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 20:33:53.626175 | Finish loading data!
+2025-06-09 21:33:53.709390 | using OBL!!!
+2025-06-09 21:33:53.726201 | finish 1-th trial,nbr_gen = 336,best_cost = 114265.000000,best_time = 39.263154
+2025-06-09 21:33:53.727248 | finishing...!
+2025-06-09 21:33:53.728243 | found best objective = 114265
+2025-06-09 21:33:53.729094 | number of times to find the best solution = 1
+2025-06-09 21:33:53.729557 | average value of the best objective value = 114265
+2025-06-09 21:33:53.729904 | average value of the best time (second) = 39.2632
+
+Instância 13/20 | Trial 1/10 | SUCESSO | Duração: 3601.85s | Melhor Custo: 114265.000000 | 2025-06-09 21:33:53.751544
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 2/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 21:33:54.778903
+================================================================================
+2025-06-09 21:33:54.876722 | Dataset: MDG-a
+2025-06-09 21:33:55.514042 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-09 21:33:55.514658 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 21:33:57.606297 | Finish loading data!
+2025-06-09 22:33:57.740515 | using OBL!!!
+2025-06-09 22:33:57.760635 | finish 1-th trial,nbr_gen = 312,best_cost = 114265.000000,best_time = 102.362383
+2025-06-09 22:33:57.761917 | finishing...!
+2025-06-09 22:33:57.763231 | found best objective = 114265
+2025-06-09 22:33:57.764239 | number of times to find the best solution = 1
+2025-06-09 22:33:57.764721 | average value of the best objective value = 114265
+2025-06-09 22:33:57.765235 | average value of the best time (second) = 102.362
+
+Instância 13/20 | Trial 2/10 | SUCESSO | Duração: 3603.04s | Melhor Custo: 114265.000000 | 2025-06-09 22:33:57.820078
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 3/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 22:33:58.844887
+================================================================================
+2025-06-09 22:33:58.976856 | Dataset: MDG-a
+2025-06-09 22:33:59.745080 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-09 22:33:59.746092 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 22:34:01.527228 | Finish loading data!
+2025-06-09 23:34:01.673760 | using OBL!!!
+2025-06-09 23:34:01.685043 | finish 1-th trial,nbr_gen = 254,best_cost = 114265.000000,best_time = 91.939105
+2025-06-09 23:34:01.686413 | finishing...!
+2025-06-09 23:34:01.688456 | found best objective = 114265
+2025-06-09 23:34:01.689476 | number of times to find the best solution = 1
+2025-06-09 23:34:01.690164 | average value of the best objective value = 114265
+2025-06-09 23:34:01.690714 | average value of the best time (second) = 91.9391
+
+Instância 13/20 | Trial 3/10 | SUCESSO | Duração: 3602.86s | Melhor Custo: 114265.000000 | 2025-06-09 23:34:01.699973
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 4/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-09 23:34:02.726535
+================================================================================
+2025-06-09 23:34:02.806470 | Dataset: MDG-a
+2025-06-09 23:34:03.326349 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-09 23:34:03.326953 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-09 23:34:05.069826 | Finish loading data!
+2025-06-10 00:34:05.281167 | using OBL!!!
+2025-06-10 00:34:05.293705 | finish 1-th trial,nbr_gen = 281,best_cost = 114265.000000,best_time = 244.689606
+2025-06-10 00:34:05.294948 | finishing...!
+2025-06-10 00:34:05.297073 | found best objective = 114265
+2025-06-10 00:34:05.298320 | number of times to find the best solution = 1
+2025-06-10 00:34:05.298830 | average value of the best objective value = 114265
+2025-06-10 00:34:05.299452 | average value of the best time (second) = 244.69
+
+Instância 13/20 | Trial 4/10 | SUCESSO | Duração: 3602.58s | Melhor Custo: 114265.000000 | 2025-06-10 00:34:05.304120
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 5/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 00:34:06.328293
+================================================================================
+2025-06-10 00:34:06.424908 | Dataset: MDG-a
+2025-06-10 00:34:06.982703 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 00:34:06.983559 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 00:34:08.746112 | Finish loading data!
+2025-06-10 01:34:08.796050 | using OBL!!!
+2025-06-10 01:34:08.797378 | finish 1-th trial,nbr_gen = 356,best_cost = 114265.000000,best_time = 61.477647
+2025-06-10 01:34:08.798091 | finishing...!
+2025-06-10 01:34:08.798955 | found best objective = 114265
+2025-06-10 01:34:08.799385 | number of times to find the best solution = 1
+2025-06-10 01:34:08.799671 | average value of the best objective value = 114265
+2025-06-10 01:34:08.800027 | average value of the best time (second) = 61.4776
+
+Instância 13/20 | Trial 5/10 | SUCESSO | Duração: 3602.47s | Melhor Custo: 114265.000000 | 2025-06-10 01:34:08.800495
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 6/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 01:34:09.802510
+================================================================================
+2025-06-10 01:34:09.822832 | Dataset: MDG-a
+2025-06-10 01:34:09.931162 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 01:34:09.931762 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 01:34:11.316561 | Finish loading data!
+2025-06-10 02:34:11.407616 | using OBL!!!
+2025-06-10 02:34:11.409634 | finish 1-th trial,nbr_gen = 356,best_cost = 114265.000000,best_time = 48.764923
+2025-06-10 02:34:11.410125 | finishing...!
+2025-06-10 02:34:11.410513 | found best objective = 114265
+2025-06-10 02:34:11.410845 | number of times to find the best solution = 1
+2025-06-10 02:34:11.411153 | average value of the best objective value = 114265
+2025-06-10 02:34:11.411556 | average value of the best time (second) = 48.7649
+
+Instância 13/20 | Trial 6/10 | SUCESSO | Duração: 3601.61s | Melhor Custo: 114265.000000 | 2025-06-10 02:34:11.411907
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 7/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 02:34:12.414187
+================================================================================
+2025-06-10 02:34:12.437076 | Dataset: MDG-a
+2025-06-10 02:34:12.612418 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 02:34:12.613250 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 02:34:14.169899 | Finish loading data!
+2025-06-10 03:34:14.198722 | using OBL!!!
+2025-06-10 03:34:14.199891 | finish 1-th trial,nbr_gen = 349,best_cost = 114265.000000,best_time = 67.454085
+2025-06-10 03:34:14.200619 | finishing...!
+2025-06-10 03:34:14.201407 | found best objective = 114265
+2025-06-10 03:34:14.201838 | number of times to find the best solution = 1
+2025-06-10 03:34:14.202213 | average value of the best objective value = 114265
+2025-06-10 03:34:14.202577 | average value of the best time (second) = 67.4541
+
+Instância 13/20 | Trial 7/10 | SUCESSO | Duração: 3601.79s | Melhor Custo: 114265.000000 | 2025-06-10 03:34:14.202972
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 8/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 03:34:15.204698
+================================================================================
+2025-06-10 03:34:15.225000 | Dataset: MDG-a
+2025-06-10 03:34:15.293899 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 03:34:15.294466 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 03:34:17.189740 | Finish loading data!
+2025-06-10 04:34:17.294240 | using OBL!!!
+2025-06-10 04:34:17.295280 | finish 1-th trial,nbr_gen = 356,best_cost = 114265.000000,best_time = 88.170836
+2025-06-10 04:34:17.295862 | finishing...!
+2025-06-10 04:34:17.296501 | found best objective = 114265
+2025-06-10 04:34:17.297027 | number of times to find the best solution = 1
+2025-06-10 04:34:17.297338 | average value of the best objective value = 114265
+2025-06-10 04:34:17.297664 | average value of the best time (second) = 88.1708
+
+Instância 13/20 | Trial 8/10 | SUCESSO | Duração: 3602.09s | Melhor Custo: 114265.000000 | 2025-06-10 04:34:17.298004
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 9/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 04:34:18.299542
+================================================================================
+2025-06-10 04:34:18.323584 | Dataset: MDG-a
+2025-06-10 04:34:18.426684 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 04:34:18.427310 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 04:34:19.909893 | Finish loading data!
+2025-06-10 05:34:19.936828 | using OBL!!!
+2025-06-10 05:34:19.938249 | finish 1-th trial,nbr_gen = 356,best_cost = 114265.000000,best_time = 67.238131
+2025-06-10 05:34:19.938837 | finishing...!
+2025-06-10 05:34:19.939370 | found best objective = 114265
+2025-06-10 05:34:19.939713 | number of times to find the best solution = 1
+2025-06-10 05:34:19.940197 | average value of the best objective value = 114265
+2025-06-10 05:34:19.940578 | average value of the best time (second) = 67.2381
+
+Instância 13/20 | Trial 9/10 | SUCESSO | Duração: 3601.64s | Melhor Custo: 114265.000000 | 2025-06-10 05:34:19.940964
+================================================================================
+
+
+================================================================================
+Instância 13/20 | Trial 10/10 | ./OBMA instances/MDG-a_26_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 05:34:20.942719
+================================================================================
+2025-06-10 05:34:21.008465 | Dataset: MDG-a
+2025-06-10 05:34:21.119641 | The statistics of the instance instances/MDG-a_26_n2000_m200.txt
+2025-06-10 05:34:21.120219 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 05:34:22.637876 | Finish loading data!
+2025-06-10 06:34:22.700631 | using OBL!!!
+2025-06-10 06:34:22.706267 | finish 1-th trial,nbr_gen = 353,best_cost = 114265.000000,best_time = 20.224340
+2025-06-10 06:34:22.707012 | finishing...!
+2025-06-10 06:34:22.708234 | found best objective = 114265
+2025-06-10 06:34:22.708963 | number of times to find the best solution = 1
+2025-06-10 06:34:22.709412 | average value of the best objective value = 114265
+2025-06-10 06:34:22.709821 | average value of the best time (second) = 20.2243
+
+Instância 13/20 | Trial 10/10 | SUCESSO | Duração: 3601.77s | Melhor Custo: 114265.000000 | 2025-06-10 06:34:22.712702
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 1/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 06:34:23.728298
+================================================================================
+2025-06-10 06:34:23.784570 | Dataset: MDG-a
+2025-06-10 06:34:23.854513 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 06:34:23.855201 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 06:34:25.333381 | Finish loading data!
+2025-06-10 07:34:25.427098 | using OBL!!!
+2025-06-10 07:34:25.441278 | finish 1-th trial,nbr_gen = 347,best_cost = 114327.000000,best_time = 26.665327
+2025-06-10 07:34:25.442741 | finishing...!
+2025-06-10 07:34:25.444519 | found best objective = 114327
+2025-06-10 07:34:25.445506 | number of times to find the best solution = 1
+2025-06-10 07:34:25.445913 | average value of the best objective value = 114327
+2025-06-10 07:34:25.446211 | average value of the best time (second) = 26.6653
+
+Instância 14/20 | Trial 1/10 | SUCESSO | Duração: 3601.72s | Melhor Custo: 114327.000000 | 2025-06-10 07:34:25.453174
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 2/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 07:34:26.476484
+================================================================================
+2025-06-10 07:34:26.553797 | Dataset: MDG-a
+2025-06-10 07:34:27.394011 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 07:34:27.394458 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 07:34:28.753253 | Finish loading data!
+2025-06-10 08:34:28.840839 | using OBL!!!
+2025-06-10 08:34:28.854747 | finish 1-th trial,nbr_gen = 281,best_cost = 114327.000000,best_time = 40.170588
+2025-06-10 08:34:28.856782 | finishing...!
+2025-06-10 08:34:28.858452 | found best objective = 114327
+2025-06-10 08:34:28.859469 | number of times to find the best solution = 1
+2025-06-10 08:34:28.860183 | average value of the best objective value = 114327
+2025-06-10 08:34:28.860990 | average value of the best time (second) = 40.1706
+
+Instância 14/20 | Trial 2/10 | SUCESSO | Duração: 3602.42s | Melhor Custo: 114327.000000 | 2025-06-10 08:34:28.898067
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 3/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 08:34:29.934971
+================================================================================
+2025-06-10 08:34:30.067692 | Dataset: MDG-a
+2025-06-10 08:34:31.116997 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 08:34:31.118000 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 08:34:34.460504 | Finish loading data!
+2025-06-10 09:34:34.635160 | using OBL!!!
+2025-06-10 09:34:34.636626 | finish 1-th trial,nbr_gen = 330,best_cost = 114327.000000,best_time = 15.426091
+2025-06-10 09:34:34.637575 | finishing...!
+2025-06-10 09:34:34.638323 | found best objective = 114327
+2025-06-10 09:34:34.638730 | number of times to find the best solution = 1
+2025-06-10 09:34:34.639740 | average value of the best objective value = 114327
+2025-06-10 09:34:34.640191 | average value of the best time (second) = 15.4261
+
+Instância 14/20 | Trial 3/10 | SUCESSO | Duração: 3604.71s | Melhor Custo: 114327.000000 | 2025-06-10 09:34:34.641544
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 4/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 09:34:35.644447
+================================================================================
+2025-06-10 09:34:35.667776 | Dataset: MDG-a
+2025-06-10 09:34:35.974593 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 09:34:35.975039 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 09:34:37.334635 | Finish loading data!
+2025-06-10 10:34:37.467041 | using OBL!!!
+2025-06-10 10:34:37.468262 | finish 1-th trial,nbr_gen = 358,best_cost = 114327.000000,best_time = 19.344575
+2025-06-10 10:34:37.468753 | finishing...!
+2025-06-10 10:34:37.469232 | found best objective = 114327
+2025-06-10 10:34:37.469733 | number of times to find the best solution = 1
+2025-06-10 10:34:37.470099 | average value of the best objective value = 114327
+2025-06-10 10:34:37.470345 | average value of the best time (second) = 19.3446
+
+Instância 14/20 | Trial 4/10 | SUCESSO | Duração: 3601.83s | Melhor Custo: 114327.000000 | 2025-06-10 10:34:37.470723
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 5/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 10:34:38.472600
+================================================================================
+2025-06-10 10:34:38.499331 | Dataset: MDG-a
+2025-06-10 10:34:38.792064 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 10:34:38.792627 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 10:34:40.370801 | Finish loading data!
+2025-06-10 11:34:38.346157 | using OBL!!!
+2025-06-10 11:34:38.347552 | finish 1-th trial,nbr_gen = 357,best_cost = 114327.000000,best_time = 29.629372
+2025-06-10 11:34:38.347962 | finishing...!
+2025-06-10 11:34:38.348625 | found best objective = 114327
+2025-06-10 11:34:38.349156 | number of times to find the best solution = 1
+2025-06-10 11:34:38.349487 | average value of the best objective value = 114327
+2025-06-10 11:34:38.349809 | average value of the best time (second) = 29.6294
+
+Instância 14/20 | Trial 5/10 | SUCESSO | Duração: 3599.88s | Melhor Custo: 114327.000000 | 2025-06-10 11:34:38.350151
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 6/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 11:34:39.351961
+================================================================================
+2025-06-10 11:34:39.381101 | Dataset: MDG-a
+2025-06-10 11:34:39.482364 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 11:34:39.483019 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 11:34:41.491282 | Finish loading data!
+2025-06-10 12:34:41.569789 | using OBL!!!
+2025-06-10 12:34:41.579021 | finish 1-th trial,nbr_gen = 333,best_cost = 114327.000000,best_time = 113.267626
+2025-06-10 12:34:41.580154 | finishing...!
+2025-06-10 12:34:41.580948 | found best objective = 114327
+2025-06-10 12:34:41.581983 | number of times to find the best solution = 1
+2025-06-10 12:34:41.582644 | average value of the best objective value = 114327
+2025-06-10 12:34:41.583218 | average value of the best time (second) = 113.268
+
+Instância 14/20 | Trial 6/10 | SUCESSO | Duração: 3602.24s | Melhor Custo: 114327.000000 | 2025-06-10 12:34:41.596316
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 7/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 12:34:42.623439
+================================================================================
+2025-06-10 12:34:42.719362 | Dataset: MDG-a
+2025-06-10 12:34:43.209748 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 12:34:43.210441 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 12:34:44.646576 | Finish loading data!
+2025-06-10 13:34:44.816366 | using OBL!!!
+2025-06-10 13:34:44.828731 | finish 1-th trial,nbr_gen = 316,best_cost = 114327.000000,best_time = 78.568794
+2025-06-10 13:34:44.830907 | finishing...!
+2025-06-10 13:34:44.831866 | found best objective = 114327
+2025-06-10 13:34:44.833394 | number of times to find the best solution = 1
+2025-06-10 13:34:44.834326 | average value of the best objective value = 114327
+2025-06-10 13:34:44.835455 | average value of the best time (second) = 78.5688
+
+Instância 14/20 | Trial 7/10 | SUCESSO | Duração: 3602.22s | Melhor Custo: 114327.000000 | 2025-06-10 13:34:44.844394
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 8/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 13:34:45.872528
+================================================================================
+2025-06-10 13:34:45.977113 | Dataset: MDG-a
+2025-06-10 13:34:46.928723 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 13:34:46.929658 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 13:34:50.649966 | Finish loading data!
+2025-06-10 14:34:50.706026 | using OBL!!!
+2025-06-10 14:34:50.707181 | finish 1-th trial,nbr_gen = 331,best_cost = 114327.000000,best_time = 50.293195
+2025-06-10 14:34:50.707687 | finishing...!
+2025-06-10 14:34:50.708135 | found best objective = 114327
+2025-06-10 14:34:50.708532 | number of times to find the best solution = 1
+2025-06-10 14:34:50.708836 | average value of the best objective value = 114327
+2025-06-10 14:34:50.709097 | average value of the best time (second) = 50.2932
+
+Instância 14/20 | Trial 8/10 | SUCESSO | Duração: 3604.84s | Melhor Custo: 114327.000000 | 2025-06-10 14:34:50.709426
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 9/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 14:34:51.711844
+================================================================================
+2025-06-10 14:34:51.733541 | Dataset: MDG-a
+2025-06-10 14:34:51.831288 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 14:34:51.832087 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 14:34:53.322237 | Finish loading data!
+2025-06-10 15:34:53.347273 | using OBL!!!
+2025-06-10 15:34:53.348555 | finish 1-th trial,nbr_gen = 360,best_cost = 114327.000000,best_time = 56.880369
+2025-06-10 15:34:53.349039 | finishing...!
+2025-06-10 15:34:53.349512 | found best objective = 114327
+2025-06-10 15:34:53.350132 | number of times to find the best solution = 1
+2025-06-10 15:34:53.350804 | average value of the best objective value = 114327
+2025-06-10 15:34:53.351257 | average value of the best time (second) = 56.8804
+
+Instância 14/20 | Trial 9/10 | SUCESSO | Duração: 3601.64s | Melhor Custo: 114327.000000 | 2025-06-10 15:34:53.351683
+================================================================================
+
+
+================================================================================
+Instância 14/20 | Trial 10/10 | ./OBMA instances/MDG-a_28_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 15:34:54.353468
+================================================================================
+2025-06-10 15:34:54.374844 | Dataset: MDG-a
+2025-06-10 15:34:54.423567 | The statistics of the instance instances/MDG-a_28_n2000_m200.txt
+2025-06-10 15:34:54.424299 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 15:34:56.299184 | Finish loading data!
+2025-06-10 16:34:56.426052 | using OBL!!!
+2025-06-10 16:34:56.440050 | finish 1-th trial,nbr_gen = 352,best_cost = 114327.000000,best_time = 40.484196
+2025-06-10 16:34:56.442961 | finishing...!
+2025-06-10 16:34:56.443933 | found best objective = 114327
+2025-06-10 16:34:56.444987 | number of times to find the best solution = 1
+2025-06-10 16:34:56.445454 | average value of the best objective value = 114327
+2025-06-10 16:34:56.446122 | average value of the best time (second) = 40.4842
+
+Instância 14/20 | Trial 10/10 | SUCESSO | Duração: 3602.25s | Melhor Custo: 114327.000000 | 2025-06-10 16:34:56.606958
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 1/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 16:34:57.637191
+================================================================================
+2025-06-10 16:34:57.828775 | Dataset: MDG-a
+2025-06-10 16:34:59.044048 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 16:34:59.044615 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 16:35:01.547343 | Finish loading data!
+2025-06-10 17:35:01.700678 | using OBL!!!
+2025-06-10 17:35:01.709552 | finish 1-th trial,nbr_gen = 340,best_cost = 114229.000000,best_time = 37.969676
+2025-06-10 17:35:01.711841 | finishing...!
+2025-06-10 17:35:01.712950 | found best objective = 114229
+2025-06-10 17:35:01.713824 | number of times to find the best solution = 1
+2025-06-10 17:35:01.714431 | average value of the best objective value = 114229
+2025-06-10 17:35:01.714916 | average value of the best time (second) = 37.9697
+
+Instância 15/20 | Trial 1/10 | SUCESSO | Duração: 3604.11s | Melhor Custo: 114229.000000 | 2025-06-10 17:35:01.747748
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 2/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 17:35:02.766540
+================================================================================
+2025-06-10 17:35:02.832831 | Dataset: MDG-a
+2025-06-10 17:35:03.361699 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 17:35:03.362347 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 17:35:04.838029 | Finish loading data!
+2025-06-10 18:35:05.019724 | using OBL!!!
+2025-06-10 18:35:05.029869 | finish 1-th trial,nbr_gen = 295,best_cost = 114229.000000,best_time = 17.618370
+2025-06-10 18:35:05.031401 | finishing...!
+2025-06-10 18:35:05.032416 | found best objective = 114229
+2025-06-10 18:35:05.033779 | number of times to find the best solution = 1
+2025-06-10 18:35:05.034113 | average value of the best objective value = 114229
+2025-06-10 18:35:05.034747 | average value of the best time (second) = 17.6184
+
+Instância 15/20 | Trial 2/10 | SUCESSO | Duração: 3602.28s | Melhor Custo: 114229.000000 | 2025-06-10 18:35:05.045043
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 3/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 18:35:06.067546
+================================================================================
+2025-06-10 18:35:06.158416 | Dataset: MDG-a
+2025-06-10 18:35:06.586918 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 18:35:06.587718 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 18:35:08.180718 | Finish loading data!
+2025-06-10 19:35:08.296551 | using OBL!!!
+2025-06-10 19:35:08.327138 | finish 1-th trial,nbr_gen = 219,best_cost = 114229.000000,best_time = 43.120183
+2025-06-10 19:35:08.328338 | finishing...!
+2025-06-10 19:35:08.329183 | found best objective = 114229
+2025-06-10 19:35:08.329906 | number of times to find the best solution = 1
+2025-06-10 19:35:08.330472 | average value of the best objective value = 114229
+2025-06-10 19:35:08.331041 | average value of the best time (second) = 43.1202
+
+Instância 15/20 | Trial 3/10 | SUCESSO | Duração: 3602.31s | Melhor Custo: 114229.000000 | 2025-06-10 19:35:08.373437
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 4/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 19:35:09.404342
+================================================================================
+2025-06-10 19:35:09.551209 | Dataset: MDG-a
+2025-06-10 19:35:10.293057 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 19:35:10.293961 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 19:35:12.687602 | Finish loading data!
+2025-06-10 20:35:12.790468 | using OBL!!!
+2025-06-10 20:35:12.807992 | finish 1-th trial,nbr_gen = 265,best_cost = 114229.000000,best_time = 173.203168
+2025-06-10 20:35:12.809705 | finishing...!
+2025-06-10 20:35:12.810992 | found best objective = 114229
+2025-06-10 20:35:12.811940 | number of times to find the best solution = 1
+2025-06-10 20:35:12.812399 | average value of the best objective value = 114229
+2025-06-10 20:35:12.812883 | average value of the best time (second) = 173.203
+
+Instância 15/20 | Trial 4/10 | SUCESSO | Duração: 3603.44s | Melhor Custo: 114229.000000 | 2025-06-10 20:35:12.847616
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 5/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 20:35:13.877597
+================================================================================
+2025-06-10 20:35:13.992135 | Dataset: MDG-a
+2025-06-10 20:35:14.580732 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 20:35:14.581382 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 20:35:16.475132 | Finish loading data!
+2025-06-10 21:35:16.641233 | using OBL!!!
+2025-06-10 21:35:16.656364 | finish 1-th trial,nbr_gen = 298,best_cost = 114229.000000,best_time = 76.485701
+2025-06-10 21:35:16.657768 | finishing...!
+2025-06-10 21:35:16.658913 | found best objective = 114229
+2025-06-10 21:35:16.660707 | number of times to find the best solution = 1
+2025-06-10 21:35:16.661312 | average value of the best objective value = 114229
+2025-06-10 21:35:16.661904 | average value of the best time (second) = 76.4857
+
+Instância 15/20 | Trial 5/10 | SUCESSO | Duração: 3602.80s | Melhor Custo: 114229.000000 | 2025-06-10 21:35:16.673284
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 6/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 21:35:17.696026
+================================================================================
+2025-06-10 21:35:17.782932 | Dataset: MDG-a
+2025-06-10 21:35:18.496032 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 21:35:18.496786 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 21:35:20.102553 | Finish loading data!
+2025-06-10 22:35:20.213611 | using OBL!!!
+2025-06-10 22:35:20.228377 | finish 1-th trial,nbr_gen = 247,best_cost = 114229.000000,best_time = 82.034677
+2025-06-10 22:35:20.229996 | finishing...!
+2025-06-10 22:35:20.232072 | found best objective = 114229
+2025-06-10 22:35:20.233466 | number of times to find the best solution = 1
+2025-06-10 22:35:20.234253 | average value of the best objective value = 114229
+2025-06-10 22:35:20.234908 | average value of the best time (second) = 82.0347
+
+Instância 15/20 | Trial 6/10 | SUCESSO | Duração: 3602.55s | Melhor Custo: 114229.000000 | 2025-06-10 22:35:20.243538
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 7/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 22:35:21.274630
+================================================================================
+2025-06-10 22:35:21.414201 | Dataset: MDG-a
+2025-06-10 22:35:22.235200 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 22:35:22.235890 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 22:35:24.682479 | Finish loading data!
+2025-06-10 23:35:24.786489 | using OBL!!!
+2025-06-10 23:35:24.804688 | finish 1-th trial,nbr_gen = 226,best_cost = 114229.000000,best_time = 83.389556
+2025-06-10 23:35:24.805940 | finishing...!
+2025-06-10 23:35:24.807270 | found best objective = 114229
+2025-06-10 23:35:24.808603 | number of times to find the best solution = 1
+2025-06-10 23:35:24.809273 | average value of the best objective value = 114229
+2025-06-10 23:35:24.810023 | average value of the best time (second) = 83.3896
+
+Instância 15/20 | Trial 7/10 | SUCESSO | Duração: 3603.59s | Melhor Custo: 114229.000000 | 2025-06-10 23:35:24.862195
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 8/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-10 23:35:25.889805
+================================================================================
+2025-06-10 23:35:26.019341 | Dataset: MDG-a
+2025-06-10 23:35:26.632802 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-10 23:35:26.633547 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-10 23:35:29.160435 | Finish loading data!
+2025-06-11 00:35:29.280175 | using OBL!!!
+2025-06-11 00:35:29.289521 | finish 1-th trial,nbr_gen = 243,best_cost = 114229.000000,best_time = 16.780908
+2025-06-11 00:35:29.290912 | finishing...!
+2025-06-11 00:35:29.292123 | found best objective = 114229
+2025-06-11 00:35:29.293045 | number of times to find the best solution = 1
+2025-06-11 00:35:29.293549 | average value of the best objective value = 114229
+2025-06-11 00:35:29.294096 | average value of the best time (second) = 16.7809
+
+Instância 15/20 | Trial 8/10 | SUCESSO | Duração: 3603.41s | Melhor Custo: 114229.000000 | 2025-06-11 00:35:29.299690
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 9/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-11 00:35:30.323571
+================================================================================
+2025-06-11 00:35:30.398034 | Dataset: MDG-a
+2025-06-11 00:35:30.820134 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-11 00:35:30.820876 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-11 00:35:32.390804 | Finish loading data!
+2025-06-11 01:35:32.451858 | using OBL!!!
+2025-06-11 01:35:32.460474 | finish 1-th trial,nbr_gen = 356,best_cost = 114229.000000,best_time = 7.681790
+2025-06-11 01:35:32.461571 | finishing...!
+2025-06-11 01:35:32.462341 | found best objective = 114229
+2025-06-11 01:35:32.463001 | number of times to find the best solution = 1
+2025-06-11 01:35:32.463339 | average value of the best objective value = 114229
+2025-06-11 01:35:32.463703 | average value of the best time (second) = 7.68179
+
+Instância 15/20 | Trial 9/10 | SUCESSO | Duração: 3602.15s | Melhor Custo: 114229.000000 | 2025-06-11 01:35:32.469165
+================================================================================
+
+
+================================================================================
+Instância 15/20 | Trial 10/10 | ./OBMA instances/MDG-a_30_n2000_m200.txt MDG-a 3600 1 2 10 15 1500 50000 2.0 true | INICIO | 2025-06-11 01:35:33.485467
+================================================================================
+2025-06-11 01:35:33.536046 | Dataset: MDG-a
+2025-06-11 01:35:33.944894 | The statistics of the instance instances/MDG-a_30_n2000_m200.txt
+2025-06-11 01:35:33.945545 | n = 2000, m = 200, m/n = 0.1, and density = 1
+2025-06-11 01:35:35.614976 | Finish loading data!
+2025-06-11 02:35:35.647519 | using OBL!!!
+2025-06-11 02:35:35.648703 | finish 1-th trial,nbr_gen = 361,best_cost = 114229.000000,best_time = 30.014478
+2025-06-11 02:35:35.649429 | finishing...!
+2025-06-11 02:35:35.650084 | found best objective = 114229
+2025-06-11 02:35:35.650745 | number of times to find the best solution = 1
+2025-06-11 02:35:35.651311 | average value of the best objective value = 114229
+2025-06-11 02:35:35.651918 | average value of the best time (second) = 30.0145
+
+Instância 15/20 | Trial 10/10 | SUCESSO | Duração: 3602.17s | Melhor Custo: 114229.000000 | 2025-06-11 02:35:35.652771
+================================================================================
