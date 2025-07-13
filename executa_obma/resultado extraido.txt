@@ -1,0 +1,240 @@
+=====================================================================Parametros Irace=====================================================================
+#Instancia 1 MDG-a_2_n500_m50
+nbr_gen = 872,best_cost = 7771.660000,best_time = 308.798271
+nbr_gen = 1247,best_cost = 7771.660000,best_time = 2256.234110
+nbr_gen = 1292,best_cost = 7771.660000,best_time = 2945.685704
+nbr_gen = 1094,best_cost = 7771.660000,best_time = 1073.471238
+nbr_gen = 849,best_cost = 7771.660000,best_time = 904.885134
+nbr_gen = 848,best_cost = 7771.660000,best_time = 731.012669
+nbr_gen = 1193,best_cost = 7771.660000,best_time = 894.953221
+nbr_gen = 1309,best_cost = 7771.660000,best_time = 2551.410496
+nbr_gen = 1339,best_cost = 7771.660000,best_time = 3153.604932
+nbr_gen = 1345,best_cost = 7771.660000,best_time = 2660.570054
+
+#Instancia 2 MDG-a_4_n500_m50
+nbr_gen = 1348,best_cost = 7770.240000,best_time = 2583.437471
+nbr_gen = 1392,best_cost = 7770.240000,best_time = 3470.546265
+nbr_gen = 1386,best_cost = 7770.240000,best_time = 399.908819
+nbr_gen = 1388,best_cost = 7770.240000,best_time = 1213.575362
+nbr_gen = 1408,best_cost = 7770.240000,best_time = 1539.462585
+nbr_gen = 1412,best_cost = 7770.240000,best_time = 137.970293
+nbr_gen = 1414,best_cost = 7770.240000,best_time = 565.150811
+nbr_gen = 1417,best_cost = 7770.240000,best_time = 2523.153126
+nbr_gen = 1276,best_cost = 7770.240000,best_time = 306.966306
+nbr_gen = 1104,best_cost = 7770.240000,best_time = 2980.077054
+
+#Instancia 3 MDG-a_6_n500_m50
+nbr_gen = 1346,best_cost = 7773.710000,best_time = 1700.518751
+nbr_gen = 1317,best_cost = 7773.710000,best_time = 2341.663250
+nbr_gen = 1342,best_cost = 7773.710000,best_time = 115.649307
+nbr_gen = 1355,best_cost = 7773.710000,best_time = 2121.455241
+nbr_gen = 1283,best_cost = 7773.710000,best_time = 2775.982050
+nbr_gen = 1052,best_cost = 7773.710000,best_time = 1774.167341
+nbr_gen = 1110,best_cost = 7773.710000,best_time = 1133.283822
+nbr_gen = 1163,best_cost = 7773.710000,best_time = 1540.260997
+nbr_gen = 1149,best_cost = 7773.710000,best_time = 152.386264
+nbr_gen = 1288,best_cost = 7773.710000,best_time = 2241.008255
+
+#Instancia 4 MDG-a_8_n500_m50
+nbr_gen = 1228,best_cost = 7750.880000,best_time = 2241.064408
+nbr_gen = 1330,best_cost = 7750.880000,best_time = 1974.338012
+nbr_gen = 1330,best_cost = 7750.880000,best_time = 2050.132348
+nbr_gen = 1329,best_cost = 7750.880000,best_time = 2956.045714
+nbr_gen = 1298,best_cost = 7750.880000,best_time = 2930.527693
+nbr_gen = 1343,best_cost = 7750.880000,best_time = 2384.620318
+nbr_gen = 1329,best_cost = 7750.880000,best_time = 1977.164435
+nbr_gen = 1163,best_cost = 7750.880000,best_time = 2224.492820
+nbr_gen = 1298,best_cost = 7750.880000,best_time = 3454.755339
+nbr_gen = 1305,best_cost = 7750.880000,best_time = 2821.752063
+
+#Instancia 5 MDG-a_10_n500_m50	
+nbr_gen = 1362,best_cost = 7780.350000,best_time = 1059.952965
+nbr_gen = 1347,best_cost = 7780.350000,best_time = 804.303483
+nbr_gen = 1318,best_cost = 7780.350000,best_time = 1143.335799
+nbr_gen = 1167,best_cost = 7780.350000,best_time = 680.213375
+nbr_gen = 1297,best_cost = 7780.350000,best_time = 3348.933247
+nbr_gen = 1298,best_cost = 7780.350000,best_time = 2582.368892
+nbr_gen = 1297,best_cost = 7780.350000,best_time = 697.721754
+nbr_gen = 1301,best_cost = 7780.350000,best_time = 948.140958
+nbr_gen = 1304,best_cost = 7780.350000,best_time = 3322.437563
+nbr_gen = 1020,best_cost = 7780.350000,best_time = 2492.721622
+
+#Instancia 6 MDG-a_12_n500_m50
+nbr_gen = 947,best_cost = 7757.650000,best_time = 839.296585
+nbr_gen = 1122,best_cost = 7757.650000,best_time = 736.436591
+nbr_gen = 1176,best_cost = 7757.650000,best_time = 3228.981466
+nbr_gen = 1299,best_cost = 7757.650000,best_time = 282.256833
+nbr_gen = 1028,best_cost = 7757.650000,best_time = 1924.970619
+nbr_gen = 1376,best_cost = 7757.650000,best_time = 1746.224544
+nbr_gen = 1380,best_cost = 7757.650000,best_time = 3008.461612
+nbr_gen = 1373,best_cost = 7757.650000,best_time = 1376.266437
+nbr_gen = 1334,best_cost = 7757.650000,best_time = 2026.067376
+nbr_gen = 1315,best_cost = 7757.650000,best_time = 516.785548
+
+#Instancia 7 MDG-a_14_n500_m50
+nbr_gen = 1352,best_cost = 7795.630000,best_time = 1219.927643
+nbr_gen = 1275,best_cost = 7795.630000,best_time = 3493.152749
+nbr_gen = 1338,best_cost = 7795.630000,best_time = 2604.402144
+nbr_gen = 1405,best_cost = 7795.630000,best_time = 192.562017
+nbr_gen = 1398,best_cost = 7795.630000,best_time = 3125.805012
+nbr_gen = 1417,best_cost = 7795.630000,best_time = 360.838224
+nbr_gen = 1353,best_cost = 7795.630000,best_time = 1635.121149
+nbr_gen = 1374,best_cost = 7795.630000,best_time = 1274.984691
+nbr_gen = 1360,best_cost = 7795.630000,best_time = 2163.138869
+nbr_gen = 1383,best_cost = 7795.630000,best_time = 74.485051
+
+#Instancia 8 MDG-a_16_n500_m50
+nbr_gen = 1327,best_cost = 7792.770000,best_time = 3264.639127
+nbr_gen = 1356,best_cost = 7792.770000,best_time = 2041.840768
+nbr_gen = 1218,best_cost = 7792.770000,best_time = 1929.962198
+nbr_gen = 905,best_cost = 7792.770000,best_time = 3221.605913
+nbr_gen = 1207,best_cost = 7792.770000,best_time = 963.067840
+nbr_gen = 1234,best_cost = 7792.770000,best_time = 3159.361301
+nbr_gen = 1349,best_cost = 7792.770000,best_time = 1559.468150
+nbr_gen = 1370,best_cost = 7792.770000,best_time = 2468.548180
+nbr_gen = 1375,best_cost = 7792.770000,best_time = 821.495685
+nbr_gen = 1352,best_cost = 7792.770000,best_time = 2431.058153
+
+#Instancia 9 MDG-a_18_n500_m50 	
+nbr_gen = 856,best_cost = 7756.260000,best_time = 2266.718821
+nbr_gen = 888,best_cost = 7756.260000,best_time = 3206.600942
+nbr_gen = 1244,best_cost = 7756.260000,best_time = 2714.632435
+nbr_gen = 1309,best_cost = 7756.260000,best_time = 1980.536098
+nbr_gen = 1371,best_cost = 7756.260000,best_time = 1970.050628
+nbr_gen = 1374,best_cost = 7756.260000,best_time = 562.547061
+nbr_gen = 1363,best_cost = 7756.260000,best_time = 1750.814009
+nbr_gen = 1368,best_cost = 7756.260000,best_time = 1244.221982
+nbr_gen = 1361,best_cost = 7756.260000,best_time = 1978.574109
+nbr_gen = 1215,best_cost = 7756.260000,best_time = 2182.256638
+
+#Instancia 10 MDG-a_20_n500_m50
+nbr_gen = 1256,best_cost = 7733.860000,best_time = 3597.763103
+nbr_gen = 1159,best_cost = 7733.860000,best_time = 725.562445
+nbr_gen = 1158,best_cost = 7733.860000,best_time = 2359.003371
+nbr_gen = 1040,best_cost = 7733.860000,best_time = 964.322296
+nbr_gen = 915,best_cost = 7733.860000,best_time = 865.629405
+nbr_gen = 1219,best_cost = 7733.860000,best_time = 3492.347449
+nbr_gen = 1012,best_cost = 7733.860000,best_time = 2399.153098
+nbr_gen = 556,best_cost = 7733.860000,best_time = 3096.007354
+nbr_gen = 567,best_cost = 7733.860000,best_time = 3014.044902
+nbr_gen = 541,best_cost = 7733.860000,best_time = 721.528343
+
+#Instancia 11 MDG-a_22_n500_m50
+nbr_gen = 118,best_cost = 114327.000000,best_time = 24.498693
+nbr_gen = 144,best_cost = 114327.000000,best_time = 14.812059
+nbr_gen = 217,best_cost = 114327.000000,best_time = 10.775257
+nbr_gen = 221,best_cost = 114327.000000,best_time = 10.874455
+nbr_gen = 226,best_cost = 114327.000000,best_time = 10.360533
+nbr_gen = 227,best_cost = 114327.000000,best_time = 13.101428
+nbr_gen = 221,best_cost = 114327.000000,best_time = 60.079068
+nbr_gen = 226,best_cost = 114327.000000,best_time = 14.449387
+nbr_gen = 225,best_cost = 114327.000000,best_time = 13.607362
+nbr_gen = 220,best_cost = 114327.000000,best_time = 44.479580
+
+#Instancia 12 MDG-a_24_n2000_m200
+nbr_gen = 220,best_cost = 114093.000000,best_time = 198.382821
+nbr_gen = 224,best_cost = 114093.000000,best_time = 181.583841
+nbr_gen = 224,best_cost = 114093.000000,best_time = 331.536596
+nbr_gen = 226,best_cost = 114093.000000,best_time = 94.001991
+nbr_gen = 210,best_cost = 114093.000000,best_time = 154.430254
+nbr_gen = 210,best_cost = 114093.000000,best_time = 55.393377
+nbr_gen = 225,best_cost = 114093.000000,best_time = 410.074975
+nbr_gen = 227,best_cost = 114093.000000,best_time = 260.344171
+nbr_gen = 225,best_cost = 114093.000000,best_time = 102.215467
+nbr_gen = 224,best_cost = 114093.000000,best_time = 46.875020
+
+#Instancia 13 MDG-a_26_n2000_m200
+nbr_gen = 211,best_cost = 114265.000000,best_time = 14.152986
+nbr_gen = 229,best_cost = 114265.000000,best_time = 134.242732
+nbr_gen = 170,best_cost = 114265.000000,best_time = 55.178453
+nbr_gen = 171,best_cost = 114265.000000,best_time = 123.574615
+nbr_gen = 199,best_cost = 114265.000000,best_time = 310.065608
+nbr_gen = 182,best_cost = 114265.000000,best_time = 10.670860
+nbr_gen = 163,best_cost = 114265.000000,best_time = 46.901258
+nbr_gen = 220,best_cost = 114265.000000,best_time = 93.803993
+nbr_gen = 220,best_cost = 114265.000000,best_time = 12.013662
+nbr_gen = 225,best_cost = 114265.000000,best_time = 14.136871
+
+#Instancia 14 MDG-a_28_n2000_m200
+nbr_gen = 225,best_cost = 114327.000000,best_time = 13.243020
+nbr_gen = 232,best_cost = 114327.000000,best_time = 42.306930
+nbr_gen = 229,best_cost = 114327.000000,best_time = 11.496562
+nbr_gen = 227,best_cost = 114327.000000,best_time = 11.329513
+nbr_gen = 229,best_cost = 114327.000000,best_time = 30.834691
+nbr_gen = 228,best_cost = 114327.000000,best_time = 9.158592
+nbr_gen = 197,best_cost = 114327.000000,best_time = 27.113158
+nbr_gen = 175,best_cost = 114327.000000,best_time = 15.970179
+nbr_gen = 203,best_cost = 114327.000000,best_time = 9.160245
+nbr_gen = 213,best_cost = 114327.000000,best_time = 31.666086
+
+#Instancia 15 MDG-a_30_n2000_m200
+nbr_gen = 233,best_cost = 114229.000000,best_time = 104.442528
+nbr_gen = 233,best_cost = 114229.000000,best_time = 29.460401
+nbr_gen = 231,best_cost = 114229.000000,best_time = 11.675812
+nbr_gen = 207,best_cost = 114229.000000,best_time = 27.067099
+nbr_gen = 121,best_cost = 114229.000000,best_time = 70.809676
+nbr_gen = 154,best_cost = 114229.000000,best_time = 166.612450
+nbr_gen = 188,best_cost = 114229.000000,best_time = 51.968180
+nbr_gen = 209,best_cost = 114229.000000,best_time = 29.309321
+nbr_gen = 191,best_cost = 114229.000000,best_time = 16.824441
+nbr_gen = 211,best_cost = 114229.000000,best_time = 13.394708
+
+#Instancia 16 MDG-a_32_n2000_m200
+nbr_gen = 210,best_cost = 114214.000000,best_time = 80.179291
+nbr_gen = 212,best_cost = 114214.000000,best_time = 324.209479
+nbr_gen = 212,best_cost = 114214.000000,best_time = 43.421335
+nbr_gen = 226,best_cost = 114214.000000,best_time = 10.047434
+nbr_gen = 226,best_cost = 114214.000000,best_time = 154.712999
+nbr_gen = 221,best_cost = 114214.000000,best_time = 14.876916
+nbr_gen = 226,best_cost = 114214.000000,best_time = 299.042145
+nbr_gen = 227,best_cost = 114214.000000,best_time = 123.307214
+nbr_gen = 225,best_cost = 114214.000000,best_time = 329.252283
+nbr_gen = 224,best_cost = 114214.000000,best_time = 513.987239
+
+#Instancia 17 MDG-a_34_n2000_m200
+nbr_gen = 224,best_cost = 114216.000000,best_time = 11.557553
+nbr_gen = 225,best_cost = 114216.000000,best_time = 28.501216
+nbr_gen = 223,best_cost = 114216.000000,best_time = 13.283155
+nbr_gen = 225,best_cost = 114216.000000,best_time = 40.604125
+nbr_gen = 230,best_cost = 114216.000000,best_time = 9.072089
+nbr_gen = 231,best_cost = 114216.000000,best_time = 9.537437
+nbr_gen = 218,best_cost = 114216.000000,best_time = 9.504677
+nbr_gen = 159,best_cost = 114216.000000,best_time = 10.362042
+nbr_gen = 156,best_cost = 114216.000000,best_time = 14.294343
+nbr_gen = 121,best_cost = 114216.000000,best_time = 39.805447
+
+#Instancia 18  MDG-a_36_n2000_m200	
+nbr_gen = 188,best_cost = 114335.000000,best_time = 74.750888
+nbr_gen = 185,best_cost = 114335.000000,best_time = 100.264613
+nbr_gen = 182,best_cost = 114335.000000,best_time = 11.642567
+nbr_gen = 137,best_cost = 114335.000000,best_time = 51.885925
+nbr_gen = 160,best_cost = 114335.000000,best_time = 21.814118
+nbr_gen = 228,best_cost = 114335.000000,best_time = 76.327678
+nbr_gen = 231,best_cost = 114335.000000,best_time = 23.561730
+nbr_gen = 230,best_cost = 114335.000000,best_time = 24.830772
+nbr_gen = 224,best_cost = 114335.000000,best_time = 13.578598
+nbr_gen = 230,best_cost = 114335.000000,best_time = 55.455684
+
+#Instancia 19 MDG-a_38_n2000_m200
+nbr_gen = 227,best_cost = 114408.000000,best_time = 12.664306
+nbr_gen = 225,best_cost = 114408.000000,best_time = 8.387878
+nbr_gen = 187,best_cost = 114408.000000,best_time = 9.049486
+nbr_gen = 210,best_cost = 114408.000000,best_time = 10.490407
+nbr_gen = 213,best_cost = 114408.000000,best_time = 13.988342
+nbr_gen = 174,best_cost = 114408.000000,best_time = 75.324721
+nbr_gen = 166,best_cost = 114408.000000,best_time = 45.163869
+nbr_gen = 150,best_cost = 114408.000000,best_time = 14.162162
+nbr_gen = 96,best_cost = 114408.000000,best_time = 60.289421
+nbr_gen = 177,best_cost = 114408.000000,best_time = 56.382291
+
+#Instancia 20 MDG-a_40_n2000_m200
+nbr_gen = 231,best_cost = 114349.000000,best_time = 10.901566
+nbr_gen = 215,best_cost = 114349.000000,best_time = 11.132882
+nbr_gen = 222,best_cost = 114349.000000,best_time = 11.046962
+nbr_gen = 225,best_cost = 114349.000000,best_time = 13.608384
+nbr_gen = 226,best_cost = 114349.000000,best_time = 24.710154
+nbr_gen = 226,best_cost = 114349.000000,best_time = 8.985050
+nbr_gen = 200,best_cost = 114349.000000,best_time = 56.155482
+nbr_gen = 214,best_cost = 114349.000000,best_time = 13.475380
+nbr_gen = 225,best_cost = 114349.000000,best_time = 13.099021
+nbr_gen = 225,best_cost = 114349.000000,best_time = 24.754362
