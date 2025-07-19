@@ -31,7 +31,7 @@ import sys
 # exe = "~/bin/executable"
 exe = "./OBMA"
 
-fixed_params = 'MDG-a 60 1'
+fixed_params = 'MDG-a 30 1'
 
 # This is an example of reading a number from the output.
 def parse_output(out):
@@ -93,6 +93,7 @@ def check_executable(fpath):
         target_runner_error(str(fpath) + " not found")
     if not os.access(fpath, os.X_OK):
         target_runner_error(str(fpath) + " is not executable")
+
 check_executable (exe)
 
 outf = open(out_file, "w")
@@ -100,13 +101,16 @@ errf = open(err_file, "w")
 return_code = subprocess.call(command, stdout = outf, stderr = errf, shell = True)
 outf.close()
 errf.close()
+
 if return_code != 0:
     target_runner_error("command returned code " + str(return_code))
 
 if not os.path.isfile(out_file):
     target_runner_error("output file " + out_file  + " not found.")
+
 cost = parse_output (open(out_file).read())
 print(cost)
+
 os.remove(out_file)
 os.remove(err_file)
 sys.exit(0)
