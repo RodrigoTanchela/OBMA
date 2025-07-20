@@ -1087,7 +1087,9 @@ int main(int argc, char** argv)
         T = atoi(argv[8]);
         max_iter = atoi(argv[9]);
         scale_factor = atof(argv[10]);
-        is_obl = atoi(argv[11]);
+        int param = atoi(argv[11]);
+        if (param == 1) is_obl = true;
+        else is_obl = false;
     }
     else
     {
