@@ -1,0 +1,297 @@
+#------------------------------------------------------------------------------
+# irace: An implementation in R of (Elitist) Iterated Racing
+# Version: 4.2.0.b50b134
+# Copyright (C) 2010-2025
+# Manuel Lopez-Ibanez     <manuel.lopez-ibanez@manchester.ac.uk>
+# Jeremie Dubois-Lacoste
+# Leslie Perez Caceres    <leslie.perez.caceres@ulb.ac.be>
+#
+# This is free software, and you are welcome to redistribute it under certain
+# conditions.  See the GNU General Public License for details. There is NO
+# WARRANTY; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+# irace builds upon previous code from the race package:
+#     race: Racing methods for the selection of the best
+#     Copyright (C) 2003 Mauro Birattari
+#------------------------------------------------------------------------------
+# installed at: /home/rodrigo/R/x86_64-pc-linux-gnu-library/4.1/irace
+# called with: 
+# 2025-07-25 00:02:13 -03: Reading parameter file '/mnt/c/Users/Rodrigo/Desktop/irace/irace-obma/parameters.txt'.
+# 2025-07-25 00:02:14 -03: Initialization
+# Elitist race
+# Elitist new instances: 1
+# Elitist limit: 2
+# nbIterations: 4
+# minNbSurvival: 4
+# nbParameters: 6
+# seed: 77007042
+# confidence level: 0.95
+# budget: 2000
+# mu: 5
+# deterministic: FALSE
+
+# 2025-07-25 00:02:14 -03: Iteration 1 of 4
+# experimentsUsed: 0
+# remainingBudget: 2000
+# currentBudget: 500
+# nbConfigurations: 83
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          1|         83|         75|    -24893600.00|         83|00:47:14|   NA|  NA|    NA|
+|x|          2|         83|         33|    -60240850.00|        166|00:48:01|+0.74|0.87|0.1003|
+|x|          3|         83|         33|    -54642600.00|        249|00:47:18|+0.71|0.81|0.1046|
+|x|          4|         83|         70|    -47210900.00|        332|00:47:10|+0.69|0.77|0.1111|
+|-|          5|         23|         70|    -56879340.00|        415|00:48:28|-0.08|0.14|1.0735|
+|=|          6|         23|         75|    -58568500.00|        438|00:13:21|-0.02|0.15|1.0079|
+|=|          7|         23|         75|    -59775328.57|        461|00:13:21|+0.03|0.16|0.9708|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          75    mean value:     -59775328.57
+Description of the best-so-far configuration:
+   .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+75   75  2 12    20 2513    71853         2.37      1       NA
+
+# 2025-07-25 04:27:10 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   NP PS alpha    T max_iter scale_factor is_obl
+75  2 12    20 2513    71853       2.3700      1
+33  2 11    20 1371    36305       2.7411      1
+56  2 16    20 1559    16618       2.0380      1
+70  2 18    19 1887    67478       2.8387      0
+# 2025-07-25 04:27:10 -03: Iteration 2 of 4
+# experimentsUsed: 461
+# remainingBudget: 1539
+# currentBudget: 513
+# nbConfigurations: 67
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          8|         67|        140|    -24905200.00|         67|00:38:42|   NA|  NA|    NA|
+|x|          7|         67|        120|    -45959000.00|        130|00:36:14|+0.13|0.56|0.6345|
+|x|          3|         67|        144|    -45120766.67|        193|00:35:57|+0.22|0.48|0.6209|
+|x|          1|         67|        144|    -40064375.00|        256|00:35:40|+0.27|0.45|0.6075|
+|-|          4|         22|        144|    -37035660.00|        319|00:37:11|-0.07|0.14|1.1001|
+|=|          6|         22|        144|    -42030950.00|        337|00:10:27|-0.11|0.08|1.0876|
+|=|          2|         22|        144|    -49680500.00|        355|00:10:30|-0.09|0.07|1.0439|
+|=|          5|         22|        144|    -55414737.50|        373|00:10:32|-0.05|0.08|0.9947|
+|=|          9|         22|        142|    -56710577.78|        395|00:12:45|-0.04|0.08|0.9833|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         142    mean value:     -56710577.78
+Description of the best-so-far configuration:
+    .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+142  142  2 12    17 2362    66078       2.4516      1       75
+
+# 2025-07-25 08:15:13 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+142  2 12    17 2362    66078       2.4516      1
+75   2 12    20 2513    71853       2.3700      1
+120  2 13    20 1173    61943       2.4022      1
+131  2 14    19 2258    65168       2.1191      0
+# 2025-07-25 08:15:13 -03: Iteration 3 of 4
+# experimentsUsed: 856
+# remainingBudget: 1144
+# currentBudget: 572
+# nbConfigurations: 60
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         10|         60|        166|    -43477300.00|         60|00:34:30|   NA|  NA|    NA|
+|x|          8|         60|        186|    -34191000.00|        116|00:32:00|-0.04|0.48|1.0336|
+|x|          9|         60|        186|    -45144100.00|        172|00:32:27|+0.05|0.37|0.9392|
+|x|          3|         60|        157|    -44719075.00|        228|00:32:15|-0.03|0.23|0.9784|
+|=|          6|         60|        157|    -49177780.00|        284|00:32:30|-0.02|0.18|0.9820|
+|=|          4|         60|        157|    -45134016.67|        340|00:32:07|-0.05|0.12|1.0232|
+|=|          1|         60|        167|    -42240814.29|        396|00:32:21|+0.00|0.14|0.9716|
+|=|          5|         60|        190|    -48906637.50|        452|00:33:27|+0.01|0.13|0.9678|
+|=|          2|         60|        167|    -54093277.78|        508|00:32:37|+0.03|0.14|0.9501|
+|=|          7|         60|        142|    -55385470.00|        564|00:34:34|+0.02|0.12|0.9540|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         142    mean value:     -55385470.00
+Description of the best-so-far configuration:
+    .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+142  142  2 12    17 2362    66078       2.4516      1       75
+
+# 2025-07-25 13:44:07 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+142  2 12    17 2362    66078       2.4516      1
+157  2 10    19 1044    46488       2.6147      1
+168  2 11    18 2618    67216       2.6402      0
+75   2 12    20 2513    71853       2.3700      1
+# 2025-07-25 13:44:07 -03: Iteration 4 of 4
+# experimentsUsed: 1420
+# remainingBudget: 580
+# currentBudget: 580
+# nbConfigurations: 56
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         11|         56|        214|    -43448100.00|         56|00:35:15|   NA|  NA|    NA|
+|x|          2|         56|        204|    -69520000.00|        108|00:38:41|-0.04|0.48|0.9542|
+|x|          3|         56|        157|    -60826333.33|        160|07:04:40|+0.01|0.34|0.9360|
+|x|          6|         56|        219|    -62375125.00|        212|00:30:10|+0.05|0.28|0.9089|
+|=|          8|         56|        157|    -54879020.00|        264|00:29:39|+0.06|0.25|0.8984|
+|=|          1|         56|        168|    -49877850.00|        316|00:29:57|+0.06|0.22|0.9075|
+|-|          4|         39|        225|    -46314400.00|        368|00:29:27|-0.06|0.09|1.0139|
+|=|          9|         39|        168|    -48905100.00|        403|00:20:06|-0.01|0.11|0.9760|
+|=|         10|         39|        225|    -48302644.44|        438|00:19:56|-0.00|0.11|0.9679|
+|=|          7|         39|        225|    -50173070.00|        473|00:20:06|-0.01|0.10|0.9755|
+|=|          5|         39|        221|    -54300090.91|        508|00:20:15|+0.00|0.09|0.9675|
+|=|         12|         39|        221|    -57739266.67|        547|00:22:35|-0.01|0.08|0.9810|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         221    mean value:     -57739266.67
+Description of the best-so-far configuration:
+    .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+221  221  2 11    18 1003    43156       2.5667      1      157
+
+# 2025-07-26 01:44:59 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+221  2 11    18 1003    43156       2.5667      1
+225  2 12    19 2509    77660       2.2732      1
+168  2 11    18 2618    67216       2.6402      0
+215  2 11    20 1108    48574       2.7120      1
+# 2025-07-26 01:44:59 -03: Iteration 5 of 5
+# experimentsUsed: 1967
+# remainingBudget: 33
+# currentBudget: 33
+# nbConfigurations: 6
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         13|          6|        256|    -24919600.00|          6|00:03:25|   NA|  NA|    NA|
+|x|          7|          6|        221|    -45968600.00|          8|00:01:09|+0.03|0.51|0.8210|
+|x|          9|          6|        221|    -52996533.33|         10|00:01:10|+0.24|0.49|0.7022|
+|x|          8|          6|        256|    -45971300.00|         12|00:01:09|+0.38|0.54|0.5551|
+|=|         12|          6|        221|    -55890900.00|         14|00:01:09|+0.27|0.42|0.7008|
+|-|          2|          5|        221|    -62508016.67|         16|00:01:10|+0.27|0.39|0.6599|
+|!|         11|          5|        256|    -59783942.86|         17|00:00:34|+0.30|0.40|0.6449|
+|=|          4|          5|        256|    -55425375.00|         18|00:00:34|+0.11|0.23|0.7736|
+|!|          1|          5|        256|    -52033188.89|         19|00:00:34|+0.18|0.27|0.7247|
+|!|          6|          5|        256|    -53530870.00|         20|00:00:35|+0.22|0.30|0.6817|
+|=|         10|          5|        256|    -52615990.91|         21|00:00:35|+0.10|0.18|0.7420|
+|=|          5|          5|        221|    -56195425.00|         22|00:00:34|+0.04|0.12|0.7849|
+|=|          3|          5|        221|    -55214653.85|         23|00:00:34|-0.01|0.07|0.7994|
+|=|         14|          5|        221|    -56060264.29|         28|00:02:53|+0.00|0.07|0.7861|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         221    mean value:     -56060264.29
+Description of the best-so-far configuration:
+    .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+221  221  2 11    18 1003    43156       2.5667      1      157
+
+# 2025-07-26 02:01:11 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+221  2 11    18 1003    43156       2.5667      1
+256  2 11    18 1178    41364       2.3512      1
+225  2 12    19 2509    77660       2.2732      1
+168  2 11    18 2618    67216       2.6402      0
+# 2025-07-26 02:01:11 -03: Stopped because there is not enough budget left to race more than the minimum (4).
+# You may either increase the budget or set 'minNbSurvival' to a lower value.
+# Iteration: 6
+# nbIterations: 6
+# experimentsUsed: 1995
+# timeUsed: 0
+# remainingBudget: 5
+# currentBudget: 5
+# number of elites: 4
+# nbConfigurations: 4
+# Total CPU user time: 65261.97, CPU sys time: 836.527, Wall-clock time: 93537.31
+# 2025-07-26 02:01:11 -03: Starting post-selection:
+# Configurations selected: 221, 256, 225, 168, 215.
+# Pending instances: 0, 0, 0, 0, 0.
+# 2025-07-26 02:01:11 -03: seed: 77007042
+# Configurations: 5
+# Available experiments: 5
+# minSurvival: 1
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|.|         11|          5|        256|    -43447100.00|          0|00:00:00|   NA|  NA|    NA|
+|.|          1|          5|        256|    -34171400.00|          0|00:00:00|+0.90|0.95|0.0774|
+|.|          3|          5|        256|    -37262733.33|          0|00:00:00|-0.20|0.20|0.7436|
+|.|         10|          5|        256|    -38813850.00|          0|00:00:00|-0.22|0.09|0.7894|
+|.|         12|          5|        256|    -50162460.00|          0|00:00:00|-0.19|0.05|0.8540|
+|.|          9|          5|        256|    -52977300.00|          0|00:00:00|-0.12|0.06|0.8266|
+|.|         14|          5|        256|    -54987585.71|          0|00:00:00|-0.07|0.08|0.7870|
+|.|          8|          5|        256|    -51226375.00|          0|00:00:00|-0.04|0.09|0.7733|
+|.|         13|          5|        256|    -48303400.00|          0|00:00:00|+0.01|0.12|0.7423|
+|.|          6|          5|        256|    -50174060.00|          0|00:00:00|+0.03|0.13|0.7264|
+|.|          7|          5|        256|    -51705163.64|          0|00:00:00|+0.05|0.14|0.7373|
+|.|          5|          5|        256|    -55358300.00|          0|00:00:00|+0.02|0.10|0.7788|
+|.|          2|          5|        256|    -58453692.31|          0|00:00:00|+0.05|0.12|0.7482|
+|.|          4|          5|        256|    -56058100.00|          0|00:00:00|+0.00|0.07|0.7861|
+|=|         15|          5|        221|    -56790546.67|          5|00:02:53|-0.00|0.06|0.7977|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         221    mean value:     -56790546.67
+Description of the best-so-far configuration:
+    .ID. NP PS alpha    T max_iter scale_factor is_obl .PARENT.
+221  221  2 11    18 1003    43156       2.5667      1      157
+
+# 2025-07-26 02:04:05 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+221  2 11    18 1003    43156       2.5667      1
+256  2 11    18 1178    41364       2.3512      1
+225  2 12    19 2509    77660       2.2732      1
+168  2 11    18 2618    67216       2.6402      0
+# Total CPU user time: 65426.26, CPU sys time: 836.577, Wall-clock time: 93711.04
+# Best configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    NP PS alpha    T max_iter scale_factor is_obl
+221  2 11    18 1003    43156       2.5667      1
+256  2 11    18 1178    41364       2.3512      1
+225  2 12    19 2509    77660       2.2732      1
+168  2 11    18 2618    67216       2.6402      0
+# Best configurations as commandlines (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+221 NP:2 PS:11 alpha:18 T:1003 max_iter:43156 scale_factor:2.5667 is_obl:1
+256 NP:2 PS:11 alpha:18 T:1178 max_iter:41364 scale_factor:2.3512 is_obl:1
+225 NP:2 PS:12 alpha:19 T:2509 max_iter:77660 scale_factor:2.2732 is_obl:1
+168 NP:2 PS:11 alpha:18 T:2618 max_iter:67216 scale_factor:2.6402 is_obl:0
+
+
+# Testing of elite configurations: 1 
+# Testing iteration configurations: FALSE 
+# 2025-07-26 02:04:05 -03: No test instances, skip testing
