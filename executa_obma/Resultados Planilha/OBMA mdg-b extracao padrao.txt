@@ -1,0 +1,119 @@
+MDG-b_22_n2000_m200
+nbr_gen = 0,best_cost = 11289578.731223,best_time = 10.902316
+nbr_gen = 0,best_cost = 11292398.161481,best_time = 12.423446
+nbr_gen = 0,best_cost = 11287038.909962,best_time = 19.173387
+nbr_gen = 0,best_cost = 11289197.273072,best_time = 9.870688
+nbr_gen = 0,best_cost = 11289197.273073,best_time = 9.543678
+nbr_gen = 0,best_cost = 11292398.161481,best_time = 15.387616
+nbr_gen = 0,best_cost = 11292042.788590,best_time = 11.582142
+nbr_gen = 0,best_cost = 11286538.442257,best_time = 13.678481
+nbr_gen = 0,best_cost = 11290554.450747,best_time = 20.004960
+nbr_gen = 0,best_cost = 11292398.161481,best_time = 11.048619
+
+MDG-b_24_n2000_m200
+nbr_gen = 0,best_cost = 11284767.240363,best_time = 14.893875
+nbr_gen = 0,best_cost = 11289529.520399,best_time = 15.908553
+nbr_gen = 0,best_cost = 11289529.520399,best_time = 13.233076
+nbr_gen = 0,best_cost = 11287354.638625,best_time = 17.245120
+nbr_gen = 0,best_cost = 11290814.506725,best_time = 15.563927
+nbr_gen = 0,best_cost = 11291119.490683,best_time = 10.235283
+nbr_gen = 0,best_cost = 11282306.246511,best_time = 14.539088
+nbr_gen = 0,best_cost = 11281951.593873,best_time = 20.007551
+nbr_gen = 0,best_cost = 11290874.065312,best_time = 16.461180
+nbr_gen = 0,best_cost = 11285057.506984,best_time = 12.756363
+
+MDG-b_26_n2000_m200
+nbr_gen = 0,best_cost = 11293346.970685,best_time = 19.936315
+nbr_gen = 0,best_cost = 11291934.037972,best_time = 10.880987
+nbr_gen = 0,best_cost = 11293233.277269,best_time = 14.663376
+nbr_gen = 0,best_cost = 11298430.416817,best_time = 10.120424
+nbr_gen = 0,best_cost = 11290919.767686,best_time = 14.917269
+nbr_gen = 0,best_cost = 11293838.160436,best_time = 12.644488
+nbr_gen = 0,best_cost = 11289349.758191,best_time = 12.032276
+nbr_gen = 0,best_cost = 11292843.096707,best_time = 14.171519
+nbr_gen = 0,best_cost = 11293346.970685,best_time = 20.007004
+nbr_gen = 0,best_cost = 11298430.416817,best_time = 20.004340
+
+MDG-b_28_n2000_m200
+nbr_gen = 0,best_cost = 11279869.992990,best_time = 12.054995
+nbr_gen = 0,best_cost = 11280488.863556,best_time = 13.549187
+nbr_gen = 0,best_cost = 11280204.583651,best_time = 14.893146
+nbr_gen = 0,best_cost = 11281829.233016,best_time = 13.441461
+nbr_gen = 0,best_cost = 11282235.290988,best_time = 8.813674
+nbr_gen = 0,best_cost = 11282909.892927,best_time = 8.951173
+nbr_gen = 0,best_cost = 11282909.892927,best_time = 8.405580
+nbr_gen = 0,best_cost = 11282714.062269,best_time = 20.007031
+nbr_gen = 0,best_cost = 11281838.009293,best_time = 10.654162
+nbr_gen = 0,best_cost = 11279040.629836,best_time = 16.023090
+
+MDG-b_30_n2000_m200
+nbr_gen = 0,best_cost = 11296414.924925,best_time = 10.532524
+nbr_gen = 0,best_cost = 11298064.583673,best_time = 14.696858
+nbr_gen = 0,best_cost = 11298064.583673,best_time = 20.003653
+nbr_gen = 0,best_cost = 11295844.040083,best_time = 12.269440
+nbr_gen = 0,best_cost = 11295820.106627,best_time = 11.837607
+nbr_gen = 0,best_cost = 11297122.749404,best_time = 20.003499
+nbr_gen = 0,best_cost = 11298064.583673,best_time = 9.849800
+nbr_gen = 0,best_cost = 11298064.583673,best_time = 11.499792
+nbr_gen = 0,best_cost = 11298009.753862,best_time = 20.009292
+nbr_gen = 0,best_cost = 11296692.769280,best_time = 11.616387
+
+MDG-b_32_n2000_m200
+nbr_gen = 0,best_cost = 11280165.500958,best_time = 12.179163
+nbr_gen = 0,best_cost = 11283476.856587,best_time = 13.879684
+nbr_gen = 0,best_cost = 11283476.856587,best_time = 9.799194
+nbr_gen = 0,best_cost = 11283230.564816,best_time = 13.602292
+nbr_gen = 0,best_cost = 11283476.856587,best_time = 15.073764
+nbr_gen = 0,best_cost = 11279092.339950,best_time = 15.380265
+nbr_gen = 0,best_cost = 11283476.856587,best_time = 20.004027
+nbr_gen = 0,best_cost = 11283013.510532,best_time = 9.985147
+nbr_gen = 0,best_cost = 11281468.066439,best_time = 9.765674
+nbr_gen = 0,best_cost = 11283539.257941,best_time = 20.003168
+
+MDG-b_34_n2000_m200
+nbr_gen = 0,best_cost = 11285423.776579,best_time = 10.156941
+nbr_gen = 0,best_cost = 11289593.087416,best_time = 20.004706
+nbr_gen = 0,best_cost = 11290482.634834,best_time = 13.608491
+nbr_gen = 0,best_cost = 11289220.726946,best_time = 19.918359
+nbr_gen = 0,best_cost = 11289593.087416,best_time = 19.485911
+nbr_gen = 0,best_cost = 11287090.959236,best_time = 14.821749
+nbr_gen = 0,best_cost = 11290482.634833,best_time = 12.463698
+nbr_gen = 0,best_cost = 11288327.272870,best_time = 13.594421
+nbr_gen = 0,best_cost = 11289593.087416,best_time = 9.250752
+nbr_gen = 0,best_cost = 11285642.711561,best_time = 18.873012
+
+MDG-b_36_n2000_m200
+nbr_gen = 0,best_cost = 11297316.739028,best_time = 12.079022
+nbr_gen = 0,best_cost = 11302892.010383,best_time = 20.005197
+nbr_gen = 0,best_cost = 11297864.639684,best_time = 13.492283
+nbr_gen = 0,best_cost = 11299053.985011,best_time = 12.549536
+nbr_gen = 0,best_cost = 11295873.350207,best_time = 19.917989
+nbr_gen = 0,best_cost = 11297047.480528,best_time = 14.200653
+nbr_gen = 0,best_cost = 11298936.316426,best_time = 20.009050
+nbr_gen = 0,best_cost = 11297864.639685,best_time = 11.872975
+nbr_gen = 0,best_cost = 11299164.472843,best_time = 9.562839
+nbr_gen = 0,best_cost = 11297021.765275,best_time = 10.332443
+
+MDG-b_38_n2000_m200
+nbr_gen = 0,best_cost = 11294582.341249,best_time = 8.743519
+nbr_gen = 0,best_cost = 11289603.472219,best_time = 14.688390
+nbr_gen = 0,best_cost = 11296535.520041,best_time = 20.007937
+nbr_gen = 0,best_cost = 11289526.114145,best_time = 14.437638
+nbr_gen = 0,best_cost = 11295239.838874,best_time = 11.155719
+nbr_gen = 0,best_cost = 11296535.520040,best_time = 11.334839
+nbr_gen = 0,best_cost = 11294898.797450,best_time = 16.524191
+nbr_gen = 0,best_cost = 11296535.520041,best_time = 9.507162
+nbr_gen = 0,best_cost = 11295254.664371,best_time = 15.278228
+nbr_gen = 0,best_cost = 11296535.520041,best_time = 9.055838
+
+MDG-b_40_n2000_m200
+nbr_gen = 0,best_cost = 11309162.635267,best_time = 8.338982
+nbr_gen = 0,best_cost = 11307139.592532,best_time = 14.365877
+nbr_gen = 0,best_cost = 11300928.734129,best_time = 13.254619
+nbr_gen = 0,best_cost = 11307139.592532,best_time = 8.519964
+nbr_gen = 0,best_cost = 11302519.281091,best_time = 16.789240
+nbr_gen = 0,best_cost = 11304102.342554,best_time = 13.545322
+nbr_gen = 0,best_cost = 11304268.075896,best_time = 13.915932
+nbr_gen = 0,best_cost = 11309162.635267,best_time = 20.012847
+nbr_gen = 0,best_cost = 11309162.635267,best_time = 16.426122
+nbr_gen = 0,best_cost = 11304070.745999,best_time = 9.827566
