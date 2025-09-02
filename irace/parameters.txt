@@ -1,9 +1,0 @@
-### Parameter file for OBMA (compatible with irace)
-# name          switch        type    values               [conditions]
-NP            "NP:"        	c       (2)
-PS            "PS:"        	i       (10, 20)
-alpha         "alpha:"     	i       (5, 20)
-T             "T:"         	i       (1000, 3000)
-max_iter      "max_iter:"  	i       (10000, 80000)
-scale_factor  "scale_factor:" 	r	(0.50, 3.00)
-is_obl        "is_obl:"    	i       (0, 1)
